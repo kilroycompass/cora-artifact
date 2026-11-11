@@ -4,8 +4,8 @@ title: "CORA: Acquisition-Aware Calibration Audits for Network Intrusion Detecti
 type: software
 version: 1.0.0
 date-released: 2026-11-11
-repository-code: "https://github.com/kilroycompass/cora-tifs-artifact"
-url: "https://github.com/kilroycompass/cora-tifs-artifact"
+repository-code: "https://github.com/kilroycompass/cora-artifact"
+url: "https://github.com/kilroycompass/cora-artifact"
 authors:
   - family-names: Akpaku
     given-names: Ernest

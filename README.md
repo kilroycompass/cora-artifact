@@ -6,7 +6,7 @@ states, replay outputs, dataset metadata, provenance, tests, and reproduction
 code. The manuscript, TeX sources, bibliography, figures, tables, and PDFs are
 intentionally excluded.
 
-Repository: https://github.com/kilroycompass/cora-tifs-artifact
+Repository: https://github.com/kilroycompass/cora-artifact
 
 ## Contents
 
