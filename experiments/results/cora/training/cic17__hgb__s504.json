@@ -1,0 +1,64 @@
+{
+  "source": "cic17",
+  "model": "hgb",
+  "seed": 504,
+  "train_windows": 10838,
+  "available_training_windows": 10838,
+  "selection_windows": 2048,
+  "configuration": {
+    "max_iter": 400,
+    "max_leaf_nodes": 15,
+    "learning_rate": 0.1
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.7792563363403767,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.8521587364483885,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.5597718242711278,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.48147976094764583,
+      "orientation": -1
+    }
+  ],
+  "orientation": -1,
+  "source_families": [
+    "DoS GoldenEye",
+    "DoS Hulk",
+    "DoS Slowhttptest",
+    "DoS Slowloris",
+    "FTP-Patator",
+    "Heartbleed",
+    "SSH-Patator"
+  ],
+  "source_calibration_auc": 0.861367467937342,
+  "source_raw_auc": 0.1386355581204197,
+  "training_seconds": 9.233404899947345
+}

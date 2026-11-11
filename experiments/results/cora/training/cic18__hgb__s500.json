@@ -1,0 +1,60 @@
+{
+  "source": "cic18",
+  "model": "hgb",
+  "seed": 500,
+  "train_windows": 92161,
+  "available_training_windows": 92161,
+  "selection_windows": 2048,
+  "configuration": {
+    "max_iter": 400,
+    "max_leaf_nodes": 63,
+    "learning_rate": 0.05
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.028690272861969963,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.05149589213601785,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.06676047814119024,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.034220639631152946,
+      "orientation": -1
+    }
+  ],
+  "orientation": -1,
+  "source_families": [
+    "DoS GoldenEye",
+    "DoS Slowloris",
+    "SSH-BruteForce"
+  ],
+  "source_calibration_auc": 0.5802896236113506,
+  "source_raw_auc": 0.41970995292720414,
+  "training_seconds": 42.512525900034234
+}

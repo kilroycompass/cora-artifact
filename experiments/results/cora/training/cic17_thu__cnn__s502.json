@@ -1,0 +1,388 @@
+{
+  "source": "cic17_thu",
+  "model": "cnn",
+  "seed": 502,
+  "train_windows": 2375,
+  "available_training_windows": 2375,
+  "selection_windows": 305,
+  "configuration": {
+    "cap": 32768,
+    "lr": 0.001,
+    "max_epochs": 60,
+    "patience": 10,
+    "selected_epoch": 52
+  },
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 0.6821552062787508,
+      "selection_ap": 0.07038371794618542,
+      "orientation": 1
+    },
+    {
+      "epoch": 2,
+      "loss": 0.4403864437278948,
+      "selection_ap": 0.18910232231619054,
+      "orientation": 1
+    },
+    {
+      "epoch": 3,
+      "loss": 0.300669318644624,
+      "selection_ap": 0.5599429521125175,
+      "orientation": 1
+    },
+    {
+      "epoch": 4,
+      "loss": 0.18487037035038598,
+      "selection_ap": 0.6118054457187395,
+      "orientation": 1
+    },
+    {
+      "epoch": 5,
+      "loss": 0.15111001269440902,
+      "selection_ap": 0.6141504889328028,
+      "orientation": 1
+    },
+    {
+      "epoch": 6,
+      "loss": 0.14471744096279143,
+      "selection_ap": 0.6238780162882772,
+      "orientation": 1
+    },
+    {
+      "epoch": 7,
+      "loss": 0.14273134859612113,
+      "selection_ap": 0.629785613635016,
+      "orientation": 1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.1417640197339811,
+      "selection_ap": 0.630254130391244,
+      "orientation": 1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.13961276405108602,
+      "selection_ap": 0.6404501530883098,
+      "orientation": 1
+    },
+    {
+      "epoch": 10,
+      "loss": 0.1390592691788548,
+      "selection_ap": 0.6445146294395057,
+      "orientation": 1
+    },
+    {
+      "epoch": 11,
+      "loss": 0.13776671480583516,
+      "selection_ap": 0.6504111713279902,
+      "orientation": 1
+    },
+    {
+      "epoch": 12,
+      "loss": 0.13588918424280066,
+      "selection_ap": 0.653570521465333,
+      "orientation": 1
+    },
+    {
+      "epoch": 13,
+      "loss": 0.13461413287175328,
+      "selection_ap": 0.6597902275999329,
+      "orientation": 1
+    },
+    {
+      "epoch": 14,
+      "loss": 0.1326259060596165,
+      "selection_ap": 0.6705461016422162,
+      "orientation": 1
+    },
+    {
+      "epoch": 15,
+      "loss": 0.12836273039642132,
+      "selection_ap": 0.679366279209112,
+      "orientation": 1
+    },
+    {
+      "epoch": 16,
+      "loss": 0.12440007660263463,
+      "selection_ap": 0.688398749642518,
+      "orientation": 1
+    },
+    {
+      "epoch": 17,
+      "loss": 0.12016622440438522,
+      "selection_ap": 0.6926746320359374,
+      "orientation": 1
+    },
+    {
+      "epoch": 18,
+      "loss": 0.12252658635691592,
+      "selection_ap": 0.7055716864180654,
+      "orientation": 1
+    },
+    {
+      "epoch": 19,
+      "loss": 0.11953348435853657,
+      "selection_ap": 0.7093552717563628,
+      "orientation": 1
+    },
+    {
+      "epoch": 20,
+      "loss": 0.11040323548567922,
+      "selection_ap": 0.7074906393119504,
+      "orientation": 1
+    },
+    {
+      "epoch": 21,
+      "loss": 0.1068525748990084,
+      "selection_ap": 0.7117492709630625,
+      "orientation": 1
+    },
+    {
+      "epoch": 22,
+      "loss": 0.1021663555847971,
+      "selection_ap": 0.7100817700124298,
+      "orientation": 1
+    },
+    {
+      "epoch": 23,
+      "loss": 0.1001367782793547,
+      "selection_ap": 0.71367460602382,
+      "orientation": 1
+    },
+    {
+      "epoch": 24,
+      "loss": 0.09855066159838125,
+      "selection_ap": 0.720268198760787,
+      "orientation": 1
+    },
+    {
+      "epoch": 25,
+      "loss": 0.09766135640599226,
+      "selection_ap": 0.7280348582833448,
+      "orientation": 1
+    },
+    {
+      "epoch": 26,
+      "loss": 0.0988906412312859,
+      "selection_ap": 0.7214925573490214,
+      "orientation": 1
+    },
+    {
+      "epoch": 27,
+      "loss": 0.09572261725601397,
+      "selection_ap": 0.7196232694986845,
+      "orientation": 1
+    },
+    {
+      "epoch": 28,
+      "loss": 0.09526366490439364,
+      "selection_ap": 0.7237888822596342,
+      "orientation": 1
+    },
+    {
+      "epoch": 29,
+      "loss": 0.09314237999602368,
+      "selection_ap": 0.7267813891428794,
+      "orientation": 1
+    },
+    {
+      "epoch": 30,
+      "loss": 0.08853626786093963,
+      "selection_ap": 0.7281613191242895,
+      "orientation": 1
+    },
+    {
+      "epoch": 31,
+      "loss": 0.09043175336875414,
+      "selection_ap": 0.7330367841889787,
+      "orientation": 1
+    },
+    {
+      "epoch": 32,
+      "loss": 0.08551736258989887,
+      "selection_ap": 0.7401754852580901,
+      "orientation": 1
+    },
+    {
+      "epoch": 33,
+      "loss": 0.08067826587589164,
+      "selection_ap": 0.7369127757572583,
+      "orientation": 1
+    },
+    {
+      "epoch": 34,
+      "loss": 0.07922342222536866,
+      "selection_ap": 0.737080639096051,
+      "orientation": 1
+    },
+    {
+      "epoch": 35,
+      "loss": 0.07698079580382297,
+      "selection_ap": 0.7360136190519624,
+      "orientation": 1
+    },
+    {
+      "epoch": 36,
+      "loss": 0.07474600054715809,
+      "selection_ap": 0.7443768726148637,
+      "orientation": 1
+    },
+    {
+      "epoch": 37,
+      "loss": 0.0734134708078284,
+      "selection_ap": 0.7473208987503861,
+      "orientation": 1
+    },
+    {
+      "epoch": 38,
+      "loss": 0.07082082460742248,
+      "selection_ap": 0.7452338794036669,
+      "orientation": 1
+    },
+    {
+      "epoch": 39,
+      "loss": 0.0673819935510033,
+      "selection_ap": 0.7487916389802849,
+      "orientation": 1
+    },
+    {
+      "epoch": 40,
+      "loss": 0.0661379521802852,
+      "selection_ap": 0.7512472867822306,
+      "orientation": 1
+    },
+    {
+      "epoch": 41,
+      "loss": 0.06462326035217235,
+      "selection_ap": 0.7480013531064525,
+      "orientation": 1
+    },
+    {
+      "epoch": 42,
+      "loss": 0.06447880151083595,
+      "selection_ap": 0.7494202538174056,
+      "orientation": 1
+    },
+    {
+      "epoch": 43,
+      "loss": 0.06072647151899965,
+      "selection_ap": 0.7452864643852134,
+      "orientation": 1
+    },
+    {
+      "epoch": 44,
+      "loss": 0.06368741157807802,
+      "selection_ap": 0.7503789428662817,
+      "orientation": 1
+    },
+    {
+      "epoch": 45,
+      "loss": 0.05975323742314389,
+      "selection_ap": 0.7555815212478505,
+      "orientation": 1
+    },
+    {
+      "epoch": 46,
+      "loss": 0.055177023858616225,
+      "selection_ap": 0.7572034606624657,
+      "orientation": 1
+    },
+    {
+      "epoch": 47,
+      "loss": 0.050784725528014336,
+      "selection_ap": 0.7560734902557544,
+      "orientation": 1
+    },
+    {
+      "epoch": 48,
+      "loss": 0.046057365985293135,
+      "selection_ap": 0.7569070975447548,
+      "orientation": 1
+    },
+    {
+      "epoch": 49,
+      "loss": 0.04512161984569148,
+      "selection_ap": 0.7644233363495818,
+      "orientation": 1
+    },
+    {
+      "epoch": 50,
+      "loss": 0.04404133199076903,
+      "selection_ap": 0.7615501359390044,
+      "orientation": 1
+    },
+    {
+      "epoch": 51,
+      "loss": 0.04029513757636673,
+      "selection_ap": 0.7610445367092321,
+      "orientation": 1
+    },
+    {
+      "epoch": 52,
+      "loss": 0.03801669250507104,
+      "selection_ap": 0.7661650825938596,
+      "orientation": 1
+    },
+    {
+      "epoch": 53,
+      "loss": 0.03545640974217339,
+      "selection_ap": 0.7629271459876249,
+      "orientation": 1
+    },
+    {
+      "epoch": 54,
+      "loss": 0.03282465508462567,
+      "selection_ap": 0.7588787177001667,
+      "orientation": 1
+    },
+    {
+      "epoch": 55,
+      "loss": 0.03099073488618198,
+      "selection_ap": 0.7603910209927688,
+      "orientation": 1
+    },
+    {
+      "epoch": 56,
+      "loss": 0.029471662350391087,
+      "selection_ap": 0.7591042540865494,
+      "orientation": 1
+    },
+    {
+      "epoch": 57,
+      "loss": 0.02855767051718737,
+      "selection_ap": 0.7551927710569022,
+      "orientation": 1
+    },
+    {
+      "epoch": 58,
+      "loss": 0.02647767849266529,
+      "selection_ap": 0.7641339860533932,
+      "orientation": 1
+    },
+    {
+      "epoch": 59,
+      "loss": 0.024453152415391647,
+      "selection_ap": 0.7615398600448103,
+      "orientation": 1
+    },
+    {
+      "epoch": 60,
+      "loss": 0.024466677008490815,
+      "selection_ap": 0.7613336297926788,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Infiltration",
+    "Infiltration - Portscan",
+    "Web Attack - Brute Force",
+    "Web Attack - SQL Injection",
+    "Web Attack - XSS"
+  ],
+  "source_calibration_auc": 0.8369578313253011,
+  "source_raw_auc": 0.8369578313253011,
+  "training_seconds": 6.188182699959725
+}

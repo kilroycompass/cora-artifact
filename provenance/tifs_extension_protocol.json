@@ -1,0 +1,150 @@
+{
+  "version": "tifs-1.1",
+  "frozen_utc_date": "2026-11-11",
+  "status": "Settings fixed before extension target scoring; not a registered preregistration",
+  "purpose": [
+    "separate fit and query randomness",
+    "audit a stronger tabular scorer",
+    "test window length and grouping",
+    "independent chronological capture validation",
+    "quantify an optimistic acquisition feasibility bound"
+  ],
+  "query_seeds": [
+    1000,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019
+  ],
+  "xgboost_fit_seeds": [
+    700,
+    701,
+    702
+  ],
+  "primary_settings": [
+    {
+      "q": 0.1,
+      "delay": 100,
+      "r": 300,
+      "feedback": "issued"
+    },
+    {
+      "q": 1.0,
+      "delay": 0,
+      "r": 300,
+      "feedback": "issued"
+    }
+  ],
+  "certificate_targets": {
+    "fpr": 0.01,
+    "tpr": [
+      0.1,
+      0.5
+    ]
+  },
+  "xgboost": {
+    "version": "3.2.0",
+    "tree_method": "hist",
+    "n_estimators": 400,
+    "max_depth": [
+      3,
+      6
+    ],
+    "learning_rate": [
+      0.05,
+      0.1
+    ],
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "reg_lambda": 1,
+    "training_cap": 32768,
+    "selection": "source-only oriented average precision"
+  },
+  "existing_sources": [
+    "cic17",
+    "cic18",
+    "unsw",
+    "ton",
+    "cic17_thu",
+    "cic17_fri",
+    "cic18_hulk",
+    "cic18_bot"
+  ],
+  "representation_control": {
+    "captures": [
+      "CIC17 Thursday",
+      "CIC17 Friday",
+      "NF-UNSW-NB15-v3"
+    ],
+    "lengths": [
+      1,
+      16,
+      64
+    ],
+    "grouping": [
+      "global",
+      "host"
+    ],
+    "scorer": "HGB",
+    "fit_seed": 700,
+    "training_cap": 32768,
+    "settings": {
+      "q": 0.1,
+      "delay_seconds": 300,
+      "r": 300,
+      "feedback": "issued"
+    },
+    "source_boundaries": "CIC: first 60% completion-ordered flows as historical source pool; fixed physical cutoff shared by representations. UNSW: existing January/February time boundaries."
+  },
+  "independent_validation": {
+    "dataset": "5G-NIDD",
+    "doi": "10.23729/e80ac9df-d9fb-47e7-8d0d-01384a415361",
+    "release_file": "BTS1_BTS2_fields_preserved.zip",
+    "captures": [
+      "BTS1",
+      "BTS2"
+    ],
+    "lengths": [
+      1,
+      16,
+      64
+    ],
+    "grouping": [
+      "global",
+      "host"
+    ],
+    "source_pool": "first 60% completion-ordered flows; same physical cutoff for all representations",
+    "source_fit_validation": "70/30 stratified split inside historical pool; disjoint selection/calibration",
+    "scorers": [
+      "HGB",
+      "XGBoost"
+    ],
+    "settings": {
+      "q": 0.1,
+      "delay_seconds": 300,
+      "r": 300,
+      "feedback": "issued"
+    },
+    "capture_scope": "two base stations in one testbed; not two independent sites",
+    "original_argus_times": "Re-extract epoch times from the original Argus flow records; spreadsheet mm:ss fields are ineligible. Require exact Seq alignment with released labels.",
+    "additional_capture": "NF-BoT-IoT-v3, one independent capture lineage, all six representations and HGB/XGBoost; identical 60% source-pool split and resource settings."
+  },
+  "exclusions": "No trusted timestamp, missing source class, missing calibration negatives, or missing target class is retained as an explicit unsupported condition. No alternative split is selected from target performance.",
+  "reporting": "All configurations retained, including failures. Equal weighting by scenario then scorer and fit; query repetitions do not create independent captures. Percentile ranges over query schedules are descriptive conditional ranges, not population confidence intervals.",
+  "metadata_amendment": "Before any extension target replay: reject HIKARI without timestamps; require original Argus epoch timestamps for 5G-NIDD; add timestamped NF-BoT-IoT-v3; specify issued-decision feedback as the extension default. Source-model selection settings unchanged."
+}

@@ -1,0 +1,98 @@
+{
+  "base_station": 1,
+  "fields": [
+    "Dur",
+    "SrcPkts",
+    "DstPkts",
+    "SrcBytes",
+    "DstBytes",
+    "SIntPkt",
+    "SIntDist",
+    "sMeanPktSz",
+    "dMeanPktSz",
+    "SrcRate",
+    "DstRate",
+    "TcpRtt",
+    "missing_numeric_count"
+  ],
+  "imputation": "nonfinite values to zero; negatives clipped to zero; log1p",
+  "sessions": [
+    {
+      "file": "Goldeneye1.csv",
+      "sha256": "e093e8f62842379743d040b5fbf7c7bc30db08e8464e8d1388f2f2a799dabc0b",
+      "epoch_file_sha256": "eaf48bc8d38a787ab550a1e4fa5cb2b5d4a6c11030712812b2b46838aaf20ffd",
+      "rows": 93803,
+      "valid": 93803
+    },
+    {
+      "file": "ICMPFlood1.csv",
+      "sha256": "7660b7b87e9ff95af4218b779c88036612ee025759cb13f200bd89f8bc1fa9e6",
+      "epoch_file_sha256": "810e9311e9a28d399488be4f0a26acb4cc20c5fef877a9466c4442fcfcb3714a",
+      "rows": 18279,
+      "valid": 18279
+    },
+    {
+      "file": "Slowloris1.csv",
+      "sha256": "f04729e388275d77b4aa2e916733d02e4a5d946cf60cd6fd19bddc6c6e5215f5",
+      "epoch_file_sha256": "ff5b7dca98440a32e4e39b25e4dd2652fff09e0f112a044cd4b27cde58869fd3",
+      "rows": 31015,
+      "valid": 31015
+    },
+    {
+      "file": "SSH1.csv",
+      "sha256": "3531a7aed3a263a1a8ff34ecdfe2218ead6db2ad4d56c36a53fb82f4976dd2d6",
+      "epoch_file_sha256": "9b2ced3a4f7f137ddf1bff4c45993e17a477421911ff167a7c579ad21528ba2a",
+      "rows": 1608,
+      "valid": 1608
+    },
+    {
+      "file": "SYNFlood1.csv",
+      "sha256": "8f841f07491cbf5363a73753e7c942e07e0129686276a6fbb1a103a07b9739b5",
+      "epoch_file_sha256": "519261108cf5761a5344cd3b87d0d94e0954f8929b2a990ca0f186ec8ea3c3dc",
+      "rows": 44636,
+      "valid": 44636
+    },
+    {
+      "file": "SYNScan1.csv",
+      "sha256": "cdb6b51eaad6284ef950d3e7721dde9f21b0228f9cf9210a45ed73eb978e7b32",
+      "epoch_file_sha256": "c27f56c09938019e8d6aec06876f056275e4cbe264abe54ef55632fa831c34ef",
+      "rows": 11450,
+      "valid": 11450
+    },
+    {
+      "file": "TCPConnect1.csv",
+      "sha256": "d703ee3ee5c707c786b65dd11259de25ff962b89fefff3745b08f0bdf4e4e36a",
+      "epoch_file_sha256": "7a137120d23ef283eff4f4967d55db37d86eb9f8826a4b38b5e631bebfdb89d2",
+      "rows": 11645,
+      "valid": 11645
+    },
+    {
+      "file": "Torshammer1.csv",
+      "sha256": "18082b7ae8d4b653f2aa4e06eaf9c95cf48b5734749901cd0c83decae3b3377f",
+      "epoch_file_sha256": "d89aa43a02056063facb412169340eb07e13ab6247d8a975f92c2ace98cf684f",
+      "rows": 38120,
+      "valid": 38120
+    },
+    {
+      "file": "UDPFlood1.csv",
+      "sha256": "ae13e398acc735e081ab1d1e5953cd806392c6d6305b4d93263f2d02a35bf68d",
+      "epoch_file_sha256": "2155d7f58874bee86a7d7de53a327912db95b8151aba92bedf877db2f8e4db06",
+      "rows": 467717,
+      "valid": 467717
+    },
+    {
+      "file": "UDPScan1.csv",
+      "sha256": "8bc5d91d995013c1ef305fa2e761ca16c7b2520e12edd331c9d26700f8ab803b",
+      "epoch_file_sha256": "1766b9ef12af621fde1b31cd9feb6220641a8596bbb010f36e21f911d3c04e96",
+      "rows": 10043,
+      "valid": 10043
+    }
+  ],
+  "timestamps": "original Argus epoch, exact Seq alignment",
+  "testbed": "one shared 5G testbed",
+  "source_cutoff_seconds": 1661519052.671299,
+  "case": "5g_bs1",
+  "flows": 728316,
+  "begin": 1661506202.607729,
+  "end": 1662554113.08039
+}

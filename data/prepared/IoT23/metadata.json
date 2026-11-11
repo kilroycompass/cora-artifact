@@ -1,0 +1,392 @@
+[
+  {
+    "capture": "CTU-Honeypot-Capture-4-1",
+    "flows": 452,
+    "invalid": 0,
+    "windows": 7,
+    "positives": 0,
+    "benign": 7,
+    "benign_flows": 452,
+    "window_length_audit": {
+      "1": {
+        "windows": 452,
+        "benign": 452
+      },
+      "16": {
+        "windows": 28,
+        "benign": 28
+      },
+      "64": {
+        "windows": 7,
+        "benign": 7
+      }
+    },
+    "host_window_audit": {
+      "1": {
+        "windows": 452,
+        "benign": 452
+      },
+      "16": {
+        "windows": 28,
+        "benign": 28
+      },
+      "64": {
+        "windows": 7,
+        "benign": 7
+      }
+    },
+    "begin": 1540469302652824,
+    "end": 1540547242647009
+  },
+  {
+    "capture": "CTU-Honeypot-Capture-5-1",
+    "flows": 1374,
+    "invalid": 0,
+    "windows": 21,
+    "positives": 0,
+    "benign": 21,
+    "benign_flows": 1374,
+    "window_length_audit": {
+      "1": {
+        "windows": 1374,
+        "benign": 1374
+      },
+      "16": {
+        "windows": 85,
+        "benign": 85
+      },
+      "64": {
+        "windows": 21,
+        "benign": 21
+      }
+    },
+    "host_window_audit": {
+      "1": {
+        "windows": 1374,
+        "benign": 1374
+      },
+      "16": {
+        "windows": 79,
+        "benign": 79
+      },
+      "64": {
+        "windows": 17,
+        "benign": 17
+      }
+    },
+    "begin": 1537522831287918,
+    "end": 1537542506809562
+  },
+  {
+    "capture": "CTU-IoT-Malware-Capture-1-1",
+    "flows": 1008748,
+    "invalid": 0,
+    "windows": 15761,
+    "positives": 15761,
+    "benign": 0,
+    "benign_flows": 469275,
+    "window_length_audit": {
+      "1": {
+        "windows": 1008748,
+        "benign": 469275
+      },
+      "16": {
+        "windows": 63046,
+        "benign": 0
+      },
+      "64": {
+        "windows": 15761,
+        "benign": 0
+      }
+    },
+    "host_window_audit": {
+      "1": {
+        "windows": 1008748,
+        "benign": 469275
+      },
+      "16": {
+        "windows": 62047,
+        "benign": 106
+      },
+      "64": {
+        "windows": 15510,
+        "benign": 25
+      }
+    },
+    "begin": 1525879831015073,
+    "end": 1526282665040560
+  },
+  {
+    "capture": "CTU-IoT-Malware-Capture-20-1",
+    "flows": 3209,
+    "invalid": 0,
+    "windows": 50,
+    "positives": 3,
+    "benign": 47,
+    "benign_flows": 3193,
+    "window_length_audit": {
+      "1": {
+        "windows": 3209,
+        "benign": 3193
+      },
+      "16": {
+        "windows": 200,
+        "benign": 196
+      },
+      "64": {
+        "windows": 50,
+        "benign": 47
+      }
+    },
+    "host_window_audit": {
+      "1": {
+        "windows": 3209,
+        "benign": 3193
+      },
+      "16": {
+        "windows": 200,
+        "benign": 196
+      },
+      "64": {
+        "windows": 50,
+        "benign": 47
+      }
+    },
+    "begin": 1538478774605444,
+    "end": 1538564587622996
+  },
+  {
+    "capture": "CTU-IoT-Malware-Capture-21-1",
+    "flows": 3286,
+    "invalid": 0,
+    "windows": 51,
+    "positives": 4,
+    "benign": 47,
+    "benign_flows": 3272,
+    "window_length_audit": {
+      "1": {
+        "windows": 3286,
+        "benign": 3272
+      },
+      "16": {
+        "windows": 205,
+        "benign": 201
+      },
+      "64": {
+        "windows": 51,
+        "benign": 47
+      }
+    },
+    "host_window_audit": {
+      "1": {
+        "windows": 3286,
+        "benign": 3272
+      },
+      "16": {
+        "windows": 205,
+        "benign": 201
+      },
+      "64": {
+        "windows": 51,
+        "benign": 47
+      }
+    },
+    "begin": 1538572953710599,
+    "end": 1538655446706453
+  },
+  {
+    "capture": "CTU-IoT-Malware-Capture-3-1",
+    "flows": 156103,
+    "invalid": 0,
+    "windows": 2439,
+    "positives": 2439,
+    "benign": 0,
+    "benign_flows": 4536,
+    "window_length_audit": {
+      "1": {
+        "windows": 156103,
+        "benign": 4536
+      },
+      "16": {
+        "windows": 9756,
+        "benign": 0
+      },
+      "64": {
+        "windows": 2439,
+        "benign": 0
+      }
+    },
+    "host_window_audit": {
+      "1": {
+        "windows": 156103,
+        "benign": 4536
+      },
+      "16": {
+        "windows": 9684,
+        "benign": 4
+      },
+      "64": {
+        "windows": 2420,
+        "benign": 0
+      }
+    },
+    "begin": 1526756261920787,
+    "end": 1526886256930903
+  },
+  {
+    "capture": "CTU-IoT-Malware-Capture-34-1",
+    "flows": 23145,
+    "invalid": 0,
+    "windows": 361,
+    "positives": 351,
+    "benign": 10,
+    "benign_flows": 1923,
+    "window_length_audit": {
+      "1": {
+        "windows": 23145,
+        "benign": 1923
+      },
+      "16": {
+        "windows": 1446,
+        "benign": 50
+      },
+      "64": {
+        "windows": 361,
+        "benign": 10
+      }
+    },
+    "host_window_audit": {
+      "1": {
+        "windows": 23145,
+        "benign": 1923
+      },
+      "16": {
+        "windows": 1446,
+        "benign": 49
+      },
+      "64": {
+        "windows": 361,
+        "benign": 10
+      }
+    },
+    "begin": 1545403820101305,
+    "end": 1545489921382429
+  },
+  {
+    "capture": "CTU-IoT-Malware-Capture-42-1",
+    "flows": 4426,
+    "invalid": 0,
+    "windows": 69,
+    "positives": 1,
+    "benign": 68,
+    "benign_flows": 4420,
+    "window_length_audit": {
+      "1": {
+        "windows": 4426,
+        "benign": 4420
+      },
+      "16": {
+        "windows": 276,
+        "benign": 275
+      },
+      "64": {
+        "windows": 69,
+        "benign": 68
+      }
+    },
+    "host_window_audit": {
+      "1": {
+        "windows": 4426,
+        "benign": 4420
+      },
+      "16": {
+        "windows": 276,
+        "benign": 275
+      },
+      "64": {
+        "windows": 69,
+        "benign": 68
+      }
+    },
+    "begin": 1547127288017081,
+    "end": 1547155210010120
+  },
+  {
+    "capture": "CTU-IoT-Malware-Capture-44-1",
+    "flows": 237,
+    "invalid": 0,
+    "windows": 3,
+    "positives": 1,
+    "benign": 2,
+    "benign_flows": 211,
+    "window_length_audit": {
+      "1": {
+        "windows": 237,
+        "benign": 211
+      },
+      "16": {
+        "windows": 14,
+        "benign": 11
+      },
+      "64": {
+        "windows": 3,
+        "benign": 2
+      }
+    },
+    "host_window_audit": {
+      "1": {
+        "windows": 237,
+        "benign": 211
+      },
+      "16": {
+        "windows": 14,
+        "benign": 11
+      },
+      "64": {
+        "windows": 3,
+        "benign": 2
+      }
+    },
+    "begin": 1547150790753992,
+    "end": 1547155056934881
+  },
+  {
+    "capture": "CTU-IoT-Malware-Capture-8-1",
+    "flows": 10403,
+    "invalid": 0,
+    "windows": 162,
+    "positives": 161,
+    "benign": 1,
+    "benign_flows": 2181,
+    "window_length_audit": {
+      "1": {
+        "windows": 10403,
+        "benign": 2181
+      },
+      "16": {
+        "windows": 650,
+        "benign": 7
+      },
+      "64": {
+        "windows": 162,
+        "benign": 1
+      }
+    },
+    "host_window_audit": {
+      "1": {
+        "windows": 10403,
+        "benign": 2181
+      },
+      "16": {
+        "windows": 650,
+        "benign": 7
+      },
+      "64": {
+        "windows": 162,
+        "benign": 1
+      }
+    },
+    "begin": 1533042911479664,
+    "end": 1533129039614947
+  }
+]

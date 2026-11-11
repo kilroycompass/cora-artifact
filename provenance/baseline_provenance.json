@@ -1,0 +1,41 @@
+[
+  {
+    "name": "up-for-ocp",
+    "repository": "https://github.com/AdaMLLab/up-for-ocp",
+    "commit": "3575f1f94a14620e089422f52cf9e1a6766ec7b1",
+    "licence_url": "https://raw.githubusercontent.com/AdaMLLab/up-for-ocp/3575f1f94a14620e089422f52cf9e1a6766ec7b1/LICENSE",
+    "reviewed_files": [
+      {
+        "path": "up-for-ocp_core_functional.py",
+        "sha256": "30aac96cb17e0aff190fa19d8f6995f7da61159ec5bfcf5bc63ec74b4cb6980c"
+      },
+      {
+        "path": "up-for-ocp_core_methods.py",
+        "sha256": "23a21621266e881287f528030f6f3a0d323a2fa8798f6c94e83a73ddad51eb1a"
+      }
+    ]
+  },
+  {
+    "name": "conformal-time-series",
+    "repository": "https://github.com/aangelopoulos/conformal-time-series",
+    "commit": "b729c3f5ff633bfc43f0f7ca08199b549c2573ac",
+    "licence_url": "https://raw.githubusercontent.com/aangelopoulos/conformal-time-series/b729c3f5ff633bfc43f0f7ca08199b549c2573ac/LICENSE",
+    "reviewed_files": [
+      {
+        "path": "conformal-time-series_core_methods.py",
+        "sha256": "8aad182d6ec3bc16c4e632012b6f259b8e4a89722efbe4a1df576054278f6fa6"
+      }
+    ]
+  },
+  {
+    "name": "DtACI",
+    "repository": "https://github.com/isgibbs/DtACI",
+    "commit": "1288af7929c7d5c741735f4194272e9b3d9ffb39",
+    "reviewed_files": [
+      {
+        "path": "DtACI_DtACI.R",
+        "sha256": "7a696a915048c97968ba19923d6854fdfe37382b7f95f3549706c3ff3cca3ad0"
+      }
+    ]
+  }
+]

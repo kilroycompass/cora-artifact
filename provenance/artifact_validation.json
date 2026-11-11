@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-11",
+  "public_repository": "https://github.com/kilroycompass/cora-tifs-artifact",
+  "protocol_tests": 27,
+  "score_inputs": 199,
+  "original_score_inputs": 120,
+  "extension_score_inputs": 79,
+  "original_method_configuration_pairs": 87480,
+  "original_supported_results": 87420,
+  "extension_query_replays": 6120,
+  "extension_method_configuration_pairs": 55080,
+  "extension_supported_results": 55060,
+  "manuscript_files_included": false,
+  "raw_traffic_included": false
+}

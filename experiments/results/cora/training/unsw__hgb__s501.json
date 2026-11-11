@@ -1,0 +1,66 @@
+{
+  "source": "unsw",
+  "model": "hgb",
+  "seed": 501,
+  "train_windows": 17725,
+  "available_training_windows": 17725,
+  "selection_windows": 1150,
+  "configuration": {
+    "max_iter": 400,
+    "max_leaf_nodes": 15,
+    "learning_rate": 0.05
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Analysis",
+    "Backdoor",
+    "DoS",
+    "Exploits",
+    "Fuzzers",
+    "Generic",
+    "Reconnaissance",
+    "Shellcode",
+    "Worms"
+  ],
+  "source_calibration_auc": 1.0,
+  "source_raw_auc": 1.0,
+  "training_seconds": 12.09123279992491
+}

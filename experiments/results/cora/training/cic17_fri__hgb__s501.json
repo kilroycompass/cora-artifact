@@ -1,0 +1,59 @@
+{
+  "source": "cic17_fri",
+  "model": "hgb",
+  "seed": 501,
+  "train_windows": 3593,
+  "available_training_windows": 3593,
+  "selection_windows": 462,
+  "configuration": {
+    "max_iter": 400,
+    "max_leaf_nodes": 63,
+    "learning_rate": 0.1
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.972853205267792,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.9712013018587611,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.9729121970818316,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.9734820109856553,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Botnet",
+    "Portscan"
+  ],
+  "source_calibration_auc": 0.9598619957537156,
+  "source_raw_auc": 0.9598619957537156,
+  "training_seconds": 3.9575684000737965
+}

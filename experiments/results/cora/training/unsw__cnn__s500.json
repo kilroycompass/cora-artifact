@@ -1,0 +1,110 @@
+{
+  "source": "unsw",
+  "model": "cnn",
+  "seed": 500,
+  "train_windows": 17725,
+  "available_training_windows": 17725,
+  "selection_windows": 1150,
+  "configuration": {
+    "cap": 32768,
+    "lr": 0.001,
+    "max_epochs": 60,
+    "patience": 10,
+    "selected_epoch": 3
+  },
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 0.14763761050345006,
+      "selection_ap": 0.897222122145953,
+      "orientation": 1
+    },
+    {
+      "epoch": 2,
+      "loss": 0.012936795753171032,
+      "selection_ap": 0.9956199974520968,
+      "orientation": 1
+    },
+    {
+      "epoch": 3,
+      "loss": 0.003705030576403454,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 4,
+      "loss": 0.0016036773423086055,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 5,
+      "loss": 0.0007421133259046305,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 6,
+      "loss": 0.001048269329440868,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 7,
+      "loss": 0.0006102714228765252,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.0005996140657320294,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.00024927800148197515,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 10,
+      "loss": 0.00015333198691364622,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 11,
+      "loss": 0.00041916417318549077,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 12,
+      "loss": 0.0004026232173893093,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 13,
+      "loss": 0.00033529100766219427,
+      "selection_ap": 1.0,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Analysis",
+    "Backdoor",
+    "DoS",
+    "Exploits",
+    "Fuzzers",
+    "Generic",
+    "Reconnaissance",
+    "Shellcode",
+    "Worms"
+  ],
+  "source_calibration_auc": 0.999600611522685,
+  "source_raw_auc": 0.999600611522685,
+  "training_seconds": 12.221768300049007
+}

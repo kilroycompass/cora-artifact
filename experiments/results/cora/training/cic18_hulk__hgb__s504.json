@@ -1,0 +1,58 @@
+{
+  "source": "cic18_hulk",
+  "model": "hgb",
+  "seed": 504,
+  "train_windows": 48498,
+  "available_training_windows": 48498,
+  "selection_windows": 2048,
+  "configuration": {
+    "max_iter": 400,
+    "max_leaf_nodes": 63,
+    "learning_rate": 0.1
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.9999708322530464,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.9999772326626726,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.9999772326626726,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.9999836791184112,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "DoS Hulk"
+  ],
+  "source_calibration_auc": 0.9999956403055692,
+  "source_raw_auc": 0.9999956403055692,
+  "training_seconds": 12.512727600056678
+}

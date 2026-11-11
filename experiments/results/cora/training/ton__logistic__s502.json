@@ -1,0 +1,58 @@
+{
+  "source": "ton",
+  "model": "logistic",
+  "seed": 502,
+  "train_windows": 159015,
+  "available_training_windows": 159015,
+  "selection_windows": 2048,
+  "configuration": {
+    "C": 0.01
+  },
+  "trace": [
+    {
+      "configuration": {
+        "C": 0.01
+      },
+      "selection_ap": 0.90713860701064,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 0.1
+      },
+      "selection_ap": 0.9031395361714395,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 1.0
+      },
+      "selection_ap": 0.8998389158870341,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 10.0
+      },
+      "selection_ap": 0.8992262994835478,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 100.0
+      },
+      "selection_ap": 0.8995485697404886,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "ddos",
+    "dos",
+    "injection",
+    "scanning"
+  ],
+  "source_calibration_auc": 0.9270069026041546,
+  "source_raw_auc": 0.9270069026041546,
+  "training_seconds": 27.47355019999668
+}

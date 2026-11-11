@@ -1,0 +1,28 @@
+{
+  "source": "data\\real\\netflow-v3\\NF-UNSW-NB15-v3\\NF-UNSW-NB15-v3.csv",
+  "invalid_rows": 0,
+  "subsampling": false,
+  "splits": {
+    "train": {
+      "flows": 1135352,
+      "windows": 17725,
+      "positive": 271,
+      "begin": 1421927414036,
+      "end": 1421972723111
+    },
+    "validation": {
+      "flows": 246014,
+      "windows": 3835,
+      "positive": 358,
+      "begin": 1424219008308,
+      "end": 1424228402881
+    },
+    "test": {
+      "flows": 984058,
+      "windows": 15358,
+      "positive": 1360,
+      "begin": 1424228403537,
+      "end": 1424262565007
+    }
+  }
+}

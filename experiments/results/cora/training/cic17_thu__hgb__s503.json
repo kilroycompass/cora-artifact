@@ -1,0 +1,62 @@
+{
+  "source": "cic17_thu",
+  "model": "hgb",
+  "seed": 503,
+  "train_windows": 2375,
+  "available_training_windows": 2375,
+  "selection_windows": 305,
+  "configuration": {
+    "max_iter": 400,
+    "max_leaf_nodes": 63,
+    "learning_rate": 0.1
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.9614638447971782,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.9701046093494607,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.9730519480519482,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.9764728025597591,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Infiltration",
+    "Infiltration - Portscan",
+    "Web Attack - Brute Force",
+    "Web Attack - SQL Injection",
+    "Web Attack - XSS"
+  ],
+  "source_calibration_auc": 0.9325,
+  "source_raw_auc": 0.9325,
+  "training_seconds": 2.9350841999985278
+}

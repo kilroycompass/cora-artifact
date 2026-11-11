@@ -1,0 +1,6 @@
+{
+  "case": "5g_bs2",
+  "supported": false,
+  "reason": "Released CSV start/end fields omit dates/hours; original BS2 Argus archive was unavailable through a usable verified download. No chronology inferred from row order.",
+  "configurations_retained_as_unsupported": 6
+}

@@ -1,0 +1,58 @@
+{
+  "source": "cic18_bot",
+  "model": "hgb",
+  "seed": 501,
+  "train_windows": 41418,
+  "available_training_windows": 41418,
+  "selection_windows": 2048,
+  "configuration": {
+    "max_iter": 400,
+    "max_leaf_nodes": 63,
+    "learning_rate": 0.05
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.8648376737226282,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.870963760555099,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.874461383119695,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_iter": 400,
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.8734138984195634,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Botnet Ares"
+  ],
+  "source_calibration_auc": 0.8270944054204341,
+  "source_raw_auc": 0.8270944054204341,
+  "training_seconds": 15.919566800119355
+}

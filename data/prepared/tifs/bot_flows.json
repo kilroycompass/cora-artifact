@@ -1,0 +1,26 @@
+{
+  "raw_file": "data\\real\\netflow-v3\\NF-BoT-IoT-v3\\NF-BoT-IoT-v3.csv",
+  "valid_rows": 16933808,
+  "discarded": 0,
+  "fields": [
+    "FLOW_END_MILLISECONDS",
+    "IPV4_SRC_ADDR",
+    "IN_BYTES",
+    "IN_PKTS",
+    "OUT_BYTES",
+    "OUT_PKTS",
+    "TCP_FLAGS",
+    "FLOW_DURATION_MILLISECONDS",
+    "MIN_IP_PKT_LEN",
+    "MAX_IP_PKT_LEN",
+    "SRC_TO_DST_IAT_AVG",
+    "SRC_TO_DST_IAT_STDDEV",
+    "Label",
+    "Attack"
+  ],
+  "source_cutoff_seconds": 1528095921.003,
+  "case": "bot",
+  "flows": 16933808,
+  "begin": 1526344151.932,
+  "end": 1529381834.508
+}

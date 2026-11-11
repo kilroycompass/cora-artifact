@@ -1,0 +1,134 @@
+{
+  "source": "cic18",
+  "model": "cnn",
+  "seed": 500,
+  "train_windows": 32768,
+  "available_training_windows": 92161,
+  "selection_windows": 2048,
+  "configuration": {
+    "cap": 32768,
+    "lr": 0.001,
+    "max_epochs": 60,
+    "patience": 10,
+    "selected_epoch": 8
+  },
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 0.29869654757203534,
+      "selection_ap": 0.1755617631835472,
+      "orientation": -1
+    },
+    {
+      "epoch": 2,
+      "loss": 0.08771631462150253,
+      "selection_ap": 0.20434503971448564,
+      "orientation": -1
+    },
+    {
+      "epoch": 3,
+      "loss": 0.050106003909604624,
+      "selection_ap": 0.1889613143007859,
+      "orientation": -1
+    },
+    {
+      "epoch": 4,
+      "loss": 0.032076581181172514,
+      "selection_ap": 0.21044857858399849,
+      "orientation": -1
+    },
+    {
+      "epoch": 5,
+      "loss": 0.02079480973952741,
+      "selection_ap": 0.21520793204159042,
+      "orientation": -1
+    },
+    {
+      "epoch": 6,
+      "loss": 0.01324420722994546,
+      "selection_ap": 0.20932090106246865,
+      "orientation": -1
+    },
+    {
+      "epoch": 7,
+      "loss": 0.008352640597422578,
+      "selection_ap": 0.23130703110783507,
+      "orientation": -1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.005600692982397959,
+      "selection_ap": 0.2626364067075389,
+      "orientation": -1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.004533000405103849,
+      "selection_ap": 0.2297683926783988,
+      "orientation": -1
+    },
+    {
+      "epoch": 10,
+      "loss": 0.00227292695910819,
+      "selection_ap": 0.2256343468846965,
+      "orientation": -1
+    },
+    {
+      "epoch": 11,
+      "loss": 0.0018215695187109304,
+      "selection_ap": 0.20588834416157134,
+      "orientation": -1
+    },
+    {
+      "epoch": 12,
+      "loss": 0.000936139278508108,
+      "selection_ap": 0.17955526253365667,
+      "orientation": -1
+    },
+    {
+      "epoch": 13,
+      "loss": 0.000632468646742268,
+      "selection_ap": 0.20328769804910748,
+      "orientation": -1
+    },
+    {
+      "epoch": 14,
+      "loss": 0.0005729888407017825,
+      "selection_ap": 0.20409519706178186,
+      "orientation": -1
+    },
+    {
+      "epoch": 15,
+      "loss": 0.0003792690149708733,
+      "selection_ap": 0.18113056388516818,
+      "orientation": -1
+    },
+    {
+      "epoch": 16,
+      "loss": 0.00020064648466444623,
+      "selection_ap": 0.1792517740894089,
+      "orientation": -1
+    },
+    {
+      "epoch": 17,
+      "loss": 0.0001388135710556071,
+      "selection_ap": 0.18803117263860425,
+      "orientation": -1
+    },
+    {
+      "epoch": 18,
+      "loss": 0.00010313094391989353,
+      "selection_ap": 0.18102861385299704,
+      "orientation": -1
+    }
+  ],
+  "orientation": -1,
+  "source_families": [
+    "DoS GoldenEye",
+    "DoS Slowloris",
+    "SSH-BruteForce"
+  ],
+  "source_calibration_auc": 0.8079607907567341,
+  "source_raw_auc": 0.19204251793082705,
+  "training_seconds": 38.01801609992981
+}

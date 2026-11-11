@@ -1,0 +1,2702 @@
+[
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 99,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 100,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 299,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 300,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 99,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 100,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 299,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 300,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 99,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 100,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 299,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 300,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 99,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 100,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 299,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 300,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 0.6351376668692506
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 99,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 100,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 299,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 300,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Thursday",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 5657,
+    "benign": 4120,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 99,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 100,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 299,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 300,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 99,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 100,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 299,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 4.08633576265322e-25
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 300,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.3955979619075511e-25
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 99,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 100,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 299,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 0.9999999999961902
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 300,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 0.9999999999936291
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 99,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 100,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 299,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 300,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 0.1757076817679812
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 99,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 100,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 299,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 300,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 Friday",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 8555,
+    "benign": 4026,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 99,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 100,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 299,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 300,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 4.2051454106751125e-28
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 99,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 100,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 299,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 300,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 99,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 100,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 299,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 300,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 99,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 100,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 299,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 300,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 99,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 100,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 299,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 300,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Hulk",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 115472,
+    "benign": 84871,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 99,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 100,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 299,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 300,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 99,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 100,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 299,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 300,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 99,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 100,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 299,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 300,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 99,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 100,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 299,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 300,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 99,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 100,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 299,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 300,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 Bot",
+    "regime": "cross_family",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 98615,
+    "benign": 45888,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.01,
+    "reference": 99,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.01,
+    "reference": 100,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.01,
+    "reference": 299,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.01,
+    "reference": 300,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.05,
+    "reference": 99,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.05,
+    "reference": 100,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.05,
+    "reference": 299,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.05,
+    "reference": 300,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.1,
+    "reference": 99,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.1,
+    "reference": 100,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.1,
+    "reference": 299,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.1,
+    "reference": 300,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.25,
+    "reference": 99,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.25,
+    "reference": 100,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.25,
+    "reference": 299,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.25,
+    "reference": 300,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 1.0,
+    "reference": 99,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 1.0,
+    "reference": 100,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 1.0,
+    "reference": 299,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 1.0,
+    "reference": 300,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW",
+    "regime": "temporal",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.01,
+    "reference": 99,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.01,
+    "reference": 100,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.01,
+    "reference": 299,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.01,
+    "reference": 300,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.1575599162394247e-62
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.05,
+    "reference": 99,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.05,
+    "reference": 100,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.05,
+    "reference": 299,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.05,
+    "reference": 300,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.1,
+    "reference": 99,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.1,
+    "reference": 100,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.1,
+    "reference": 299,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.1,
+    "reference": 300,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.25,
+    "reference": 99,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.25,
+    "reference": 100,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.25,
+    "reference": 299,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.25,
+    "reference": 300,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 1.0,
+    "reference": 99,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 1.0,
+    "reference": 100,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 1.0,
+    "reference": 299,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 1.0,
+    "reference": 300,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "UNSW to ToN",
+    "regime": "cross_corpus",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.01,
+    "reference": 99,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.01,
+    "reference": 100,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.01,
+    "reference": 299,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.01,
+    "reference": 300,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.1575599162394247e-62
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.05,
+    "reference": 99,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.05,
+    "reference": 100,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.05,
+    "reference": 299,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.05,
+    "reference": 300,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.1,
+    "reference": 99,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.1,
+    "reference": 100,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.1,
+    "reference": 299,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.1,
+    "reference": 300,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.25,
+    "reference": 99,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.25,
+    "reference": 100,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.25,
+    "reference": 299,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.25,
+    "reference": 300,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 1.0,
+    "reference": 99,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 1.0,
+    "reference": 100,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 1.0,
+    "reference": 299,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 1.0,
+    "reference": 300,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN",
+    "regime": "temporal",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 171242,
+    "benign": 66086,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.01,
+    "reference": 99,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.01,
+    "reference": 100,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.01,
+    "reference": 299,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.01,
+    "reference": 300,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.05,
+    "reference": 99,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.05,
+    "reference": 100,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.05,
+    "reference": 299,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.05,
+    "reference": 300,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.1,
+    "reference": 99,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.1,
+    "reference": 100,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.1,
+    "reference": 299,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.1,
+    "reference": 300,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.25,
+    "reference": 99,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.25,
+    "reference": 100,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.25,
+    "reference": 299,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.25,
+    "reference": 300,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 1.0,
+    "reference": 99,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 1.0,
+    "reference": 100,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 1.0,
+    "reference": 299,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 1.0,
+    "reference": 300,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "ToN to UNSW",
+    "regime": "cross_corpus",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 15358,
+    "benign": 13998,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 99,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 100,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 299,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 300,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 99,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 4.719185844182486e-29
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 100,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 3.600026967137331e-30
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 299,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 300,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 99,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.036072035864154736
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 100,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.026153899449339015
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 299,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 300,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 99,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 100,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 299,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 6.507733496044341e-17
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 300,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 2.831198277538369e-17
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 99,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 100,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 299,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 300,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Thu",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 2263,
+    "benign": 962,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 99,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 100,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 299,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 300,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 99,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 6.634497975472674e-18
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 100,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 1.6420758442426299e-18
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 299,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 300,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 99,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.26171300949017495
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 100,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.22225781462573194
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 299,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 7.79395565993584e-136
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 300,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 2.9084745383027303e-137
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 99,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 100,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 299,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 8.651773427436229e-09
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 300,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 5.233388632481808e-09
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 99,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 100,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 299,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 300,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C17 local Fri",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 3422,
+    "benign": 1037,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 99,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 100,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 299,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 0.9999933696623136
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 300,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 0.9999895601436363
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 99,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 100,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 299,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 300,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 99,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 100,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 299,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 300,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 99,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 100,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 299,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 300,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 99,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 100,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 299,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 300,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Hulk",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 46189,
+    "benign": 34229,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 99,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 100,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 299,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 5.155174770462415e-23
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 300,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.7282929902779473e-23
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.01,
+    "reference": 1000,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 0.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 99,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 100,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 299,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 300,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.05,
+    "reference": 1000,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 0.8545798894354819
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 99,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 100,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 299,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 300,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.1,
+    "reference": 1000,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 99,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 100,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 299,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 300,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 0.25,
+    "reference": 1000,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 99,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 100,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 299,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 300,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  },
+  {
+    "scenario": "C18 local Bot",
+    "regime": "capture_local",
+    "q": 1.0,
+    "reference": 1000,
+    "n": 39446,
+    "benign": 20551,
+    "completion_probability": 1.0
+  }
+]

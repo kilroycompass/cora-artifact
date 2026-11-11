@@ -1,0 +1,235 @@
+{
+  "source": "cic17_fri",
+  "model": "cnn",
+  "seed": 500,
+  "train_windows": 3593,
+  "available_training_windows": 3593,
+  "selection_windows": 462,
+  "configuration": {
+    "cap": 32768,
+    "lr": 0.001,
+    "max_epochs": 60,
+    "patience": 10,
+    "selected_epoch": 25
+  },
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 0.5929666094683088,
+      "selection_ap": 0.9451538320400932,
+      "orientation": 1
+    },
+    {
+      "epoch": 2,
+      "loss": 0.3041845904111099,
+      "selection_ap": 0.9488441274172028,
+      "orientation": 1
+    },
+    {
+      "epoch": 3,
+      "loss": 0.21490286535749586,
+      "selection_ap": 0.9482681424281758,
+      "orientation": 1
+    },
+    {
+      "epoch": 4,
+      "loss": 0.2114809486790019,
+      "selection_ap": 0.9490321421658885,
+      "orientation": 1
+    },
+    {
+      "epoch": 5,
+      "loss": 0.20513755833740988,
+      "selection_ap": 0.9497822735771266,
+      "orientation": 1
+    },
+    {
+      "epoch": 6,
+      "loss": 0.20383128144558246,
+      "selection_ap": 0.9504778519853945,
+      "orientation": 1
+    },
+    {
+      "epoch": 7,
+      "loss": 0.2029347749778961,
+      "selection_ap": 0.9500727391242537,
+      "orientation": 1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.20072011837894924,
+      "selection_ap": 0.950571303123111,
+      "orientation": 1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.20012993975797802,
+      "selection_ap": 0.9502703268032829,
+      "orientation": 1
+    },
+    {
+      "epoch": 10,
+      "loss": 0.19949233089852325,
+      "selection_ap": 0.9517465954572646,
+      "orientation": 1
+    },
+    {
+      "epoch": 11,
+      "loss": 0.19806795780651423,
+      "selection_ap": 0.9524081181521511,
+      "orientation": 1
+    },
+    {
+      "epoch": 12,
+      "loss": 0.1972435999308129,
+      "selection_ap": 0.9537684858880447,
+      "orientation": 1
+    },
+    {
+      "epoch": 13,
+      "loss": 0.19862707604148944,
+      "selection_ap": 0.9537296313917737,
+      "orientation": 1
+    },
+    {
+      "epoch": 14,
+      "loss": 0.19786495104693386,
+      "selection_ap": 0.954434617038096,
+      "orientation": 1
+    },
+    {
+      "epoch": 15,
+      "loss": 0.19558888793223886,
+      "selection_ap": 0.9542434151649799,
+      "orientation": 1
+    },
+    {
+      "epoch": 16,
+      "loss": 0.19327036808111395,
+      "selection_ap": 0.9554525351186751,
+      "orientation": 1
+    },
+    {
+      "epoch": 17,
+      "loss": 0.19386754001444373,
+      "selection_ap": 0.9557186500944448,
+      "orientation": 1
+    },
+    {
+      "epoch": 18,
+      "loss": 0.19335402029903692,
+      "selection_ap": 0.9549642898810603,
+      "orientation": 1
+    },
+    {
+      "epoch": 19,
+      "loss": 0.19582309240240459,
+      "selection_ap": 0.9532553761928351,
+      "orientation": 1
+    },
+    {
+      "epoch": 20,
+      "loss": 0.19237034419702348,
+      "selection_ap": 0.9555264611616694,
+      "orientation": 1
+    },
+    {
+      "epoch": 21,
+      "loss": 0.19611661766121521,
+      "selection_ap": 0.9564322704841609,
+      "orientation": 1
+    },
+    {
+      "epoch": 22,
+      "loss": 0.1933001460631412,
+      "selection_ap": 0.9538804993498144,
+      "orientation": 1
+    },
+    {
+      "epoch": 23,
+      "loss": 0.19106650982034462,
+      "selection_ap": 0.9566142100569127,
+      "orientation": 1
+    },
+    {
+      "epoch": 24,
+      "loss": 0.19104600276081568,
+      "selection_ap": 0.9555201724867629,
+      "orientation": 1
+    },
+    {
+      "epoch": 25,
+      "loss": 0.1904115818841126,
+      "selection_ap": 0.9567721974974497,
+      "orientation": 1
+    },
+    {
+      "epoch": 26,
+      "loss": 0.1891682647633131,
+      "selection_ap": 0.9565907119269268,
+      "orientation": 1
+    },
+    {
+      "epoch": 27,
+      "loss": 0.18691388265463824,
+      "selection_ap": 0.956370886787052,
+      "orientation": 1
+    },
+    {
+      "epoch": 28,
+      "loss": 0.1869393745579827,
+      "selection_ap": 0.9561639001159369,
+      "orientation": 1
+    },
+    {
+      "epoch": 29,
+      "loss": 0.1847631995795067,
+      "selection_ap": 0.9565917704734792,
+      "orientation": 1
+    },
+    {
+      "epoch": 30,
+      "loss": 0.18601763749227132,
+      "selection_ap": 0.9561540598546177,
+      "orientation": 1
+    },
+    {
+      "epoch": 31,
+      "loss": 0.1830910798768761,
+      "selection_ap": 0.955993063455994,
+      "orientation": 1
+    },
+    {
+      "epoch": 32,
+      "loss": 0.186636870495214,
+      "selection_ap": 0.9554887246027476,
+      "orientation": 1
+    },
+    {
+      "epoch": 33,
+      "loss": 0.18256133037906752,
+      "selection_ap": 0.955158542851122,
+      "orientation": 1
+    },
+    {
+      "epoch": 34,
+      "loss": 0.18048437642679552,
+      "selection_ap": 0.9556542600690874,
+      "orientation": 1
+    },
+    {
+      "epoch": 35,
+      "loss": 0.18195112419101875,
+      "selection_ap": 0.9549916587305656,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Botnet",
+    "Portscan"
+  ],
+  "source_calibration_auc": 0.9299681528662421,
+  "source_raw_auc": 0.9299681528662421,
+  "training_seconds": 4.833836799953133
+}

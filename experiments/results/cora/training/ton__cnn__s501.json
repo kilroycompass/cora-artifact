@@ -1,0 +1,93 @@
+{
+  "source": "ton",
+  "model": "cnn",
+  "seed": 501,
+  "train_windows": 32768,
+  "available_training_windows": 159015,
+  "selection_windows": 2048,
+  "configuration": {
+    "cap": 32768,
+    "lr": 0.001,
+    "max_epochs": 60,
+    "patience": 10,
+    "selected_epoch": 1
+  },
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 0.5875206110067666,
+      "selection_ap": 0.8856322142671137,
+      "orientation": 1
+    },
+    {
+      "epoch": 2,
+      "loss": 0.5373795828782022,
+      "selection_ap": 0.791199256158857,
+      "orientation": 1
+    },
+    {
+      "epoch": 3,
+      "loss": 0.5249944189563394,
+      "selection_ap": 0.8065826563020626,
+      "orientation": 1
+    },
+    {
+      "epoch": 4,
+      "loss": 0.5167416266631335,
+      "selection_ap": 0.7443482726842343,
+      "orientation": 1
+    },
+    {
+      "epoch": 5,
+      "loss": 0.508481711614877,
+      "selection_ap": 0.7447774044312768,
+      "orientation": 1
+    },
+    {
+      "epoch": 6,
+      "loss": 0.5033800830133259,
+      "selection_ap": 0.7771442953812614,
+      "orientation": 1
+    },
+    {
+      "epoch": 7,
+      "loss": 0.49989828164689243,
+      "selection_ap": 0.8143656842646463,
+      "orientation": 1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.49647024855948985,
+      "selection_ap": 0.8148615399262864,
+      "orientation": 1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.49237694684416056,
+      "selection_ap": 0.8544279838135854,
+      "orientation": 1
+    },
+    {
+      "epoch": 10,
+      "loss": 0.487413716269657,
+      "selection_ap": 0.8085021706136992,
+      "orientation": 1
+    },
+    {
+      "epoch": 11,
+      "loss": 0.4856202541850507,
+      "selection_ap": 0.8778766441181239,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "ddos",
+    "dos",
+    "injection",
+    "scanning"
+  ],
+  "source_calibration_auc": 0.8945572531075677,
+  "source_raw_auc": 0.8945572531075677,
+  "training_seconds": 22.08625639998354
+}

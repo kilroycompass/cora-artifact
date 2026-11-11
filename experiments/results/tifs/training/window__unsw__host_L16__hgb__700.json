@@ -1,0 +1,49 @@
+{
+  "fit_id": "window__unsw__host_L16__hgb__700",
+  "model": "hgb",
+  "fit_seed": 700,
+  "supported": true,
+  "train_windows": 32768,
+  "available_training_windows": 70941,
+  "selection_windows": 2048,
+  "calibration_windows": 13315,
+  "source_benign_reference": 12070,
+  "orientation": 1,
+  "configuration": {
+    "max_leaf_nodes": 15,
+    "learning_rate": 0.05
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    }
+  ],
+  "source_auc": 0.9999931457395448,
+  "targets": {
+    "test": {
+      "n": 61484,
+      "benign": 56034,
+      "attacks": 5450,
+      "auc": 0.9999864302571211,
+      "ap": 0.9998518533977028
+    }
+  },
+  "seconds": 4.055298199877143,
+  "protocol_sha256": "46e953cd2307a49e4572772014b067ff2601a8e84b9c590cb9a8a661e4e013b6",
+  "experiment": "representation_control",
+  "source": "unsw",
+  "representation": "host_L16"
+}

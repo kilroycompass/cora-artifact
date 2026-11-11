@@ -1,0 +1,57 @@
+{
+  "source": "cic18",
+  "model": "logistic",
+  "seed": 502,
+  "train_windows": 92161,
+  "available_training_windows": 92161,
+  "selection_windows": 2048,
+  "configuration": {
+    "C": 1.0
+  },
+  "trace": [
+    {
+      "configuration": {
+        "C": 0.01
+      },
+      "selection_ap": 0.20847522160581702,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "C": 0.1
+      },
+      "selection_ap": 0.22687431263273228,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "C": 1.0
+      },
+      "selection_ap": 0.2317045203093388,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "C": 10.0
+      },
+      "selection_ap": 0.21307934955499064,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "C": 100.0
+      },
+      "selection_ap": 0.2125998875607946,
+      "orientation": -1
+    }
+  ],
+  "orientation": -1,
+  "source_families": [
+    "DoS GoldenEye",
+    "DoS Slowloris",
+    "SSH-BruteForce"
+  ],
+  "source_calibration_auc": 0.732190831193826,
+  "source_raw_auc": 0.26780954170505866,
+  "training_seconds": 18.650388000067323
+}

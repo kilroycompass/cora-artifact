@@ -1,0 +1,16 @@
+{
+  "case": "unsw",
+  "representation": "host_L1",
+  "supported": true,
+  "window_length": 1,
+  "grouping": "host",
+  "source_train": 1135352,
+  "source_validation": 246014,
+  "target_windows": 984058,
+  "target_benign": 896817,
+  "target_attacks": 87241,
+  "discarded_target_tails": 0,
+  "flow_metadata_sha256": "23d4249ff78bbbd0d8a9ae2c93f6c0570546159632d473aabdd165d112df140a",
+  "alias_of": "global_L1",
+  "fit_reused": true
+}

@@ -1,0 +1,14 @@
+{
+  "case": "c17_fri",
+  "representation": "host_L16",
+  "supported": true,
+  "window_length": 16,
+  "grouping": "host",
+  "source_train": 14368,
+  "source_validation": 6158,
+  "target_windows": 13680,
+  "target_benign": 4921,
+  "target_attacks": 8759,
+  "discarded_target_tails": 143,
+  "flow_metadata_sha256": "ab7a9d44ee66d9105f9b17dc6227d4e0dca40a7bceac81da308c5eb7c5afd8fc"
+}

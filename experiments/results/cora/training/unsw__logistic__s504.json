@@ -1,0 +1,63 @@
+{
+  "source": "unsw",
+  "model": "logistic",
+  "seed": 504,
+  "train_windows": 17725,
+  "available_training_windows": 17725,
+  "selection_windows": 1150,
+  "configuration": {
+    "C": 0.1
+  },
+  "trace": [
+    {
+      "configuration": {
+        "C": 0.01
+      },
+      "selection_ap": 0.9884981320540085,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 0.1
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 1.0
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 10.0
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 100.0
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Analysis",
+    "Backdoor",
+    "DoS",
+    "Exploits",
+    "Fuzzers",
+    "Generic",
+    "Reconnaissance",
+    "Shellcode",
+    "Worms"
+  ],
+  "source_calibration_auc": 0.9999607158874773,
+  "source_raw_auc": 0.9999607158874773,
+  "training_seconds": 3.3359244999010116
+}

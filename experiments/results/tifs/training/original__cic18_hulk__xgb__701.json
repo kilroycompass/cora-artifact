@@ -1,0 +1,64 @@
+{
+  "fit_id": "original__cic18_hulk__xgb__701",
+  "model": "xgb",
+  "fit_seed": 701,
+  "supported": true,
+  "train_windows": 32768,
+  "available_training_windows": 48498,
+  "selection_windows": 2048,
+  "calibration_windows": 18737,
+  "source_benign_reference": 13696,
+  "orientation": 1,
+  "configuration": {
+    "max_depth": 3,
+    "learning_rate": 0.05
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_depth": 3,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_depth": 3,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_depth": 6,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.9999901721189567,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_depth": 6,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.9999967121702307,
+      "orientation": 1
+    }
+  ],
+  "source_auc": 0.9999984212402226,
+  "targets": {
+    "test": {
+      "n": 46189,
+      "benign": 34229,
+      "attacks": 11960,
+      "auc": 0.9998660751493654,
+      "ap": 0.999734610655976
+    }
+  },
+  "seconds": 3.703886300092563,
+  "protocol_sha256": "46e953cd2307a49e4572772014b067ff2601a8e84b9c590cb9a8a661e4e013b6",
+  "experiment": "stronger_scorer",
+  "source": "cic18_hulk"
+}

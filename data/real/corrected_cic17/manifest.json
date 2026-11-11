@@ -1,0 +1,50 @@
+{
+  "version": "CNS2022 corrected release, updated 2023",
+  "files": [
+    {
+      "archive_url": "https://intrusion-detection.distrinet-research.be/CNS2022/Datasets/CICIDS2017_improved.zip",
+      "archive_bytes": 343549013,
+      "member": "friday.csv",
+      "bytes": 285188226,
+      "compressed_bytes": 77431866,
+      "crc32": "2acdecd2",
+      "sha256": "ebd499e6f23bd59f9cb81bec28178491b02b925fa5640a24215c9437d79482d0"
+    },
+    {
+      "archive_url": "https://intrusion-detection.distrinet-research.be/CNS2022/Datasets/CICIDS2017_improved.zip",
+      "archive_bytes": 343549013,
+      "member": "monday.csv",
+      "bytes": 207875155,
+      "compressed_bytes": 66068274,
+      "crc32": "e08d4445",
+      "sha256": "51fe5dc962626efb4ae70dce0303072fb780da0932822b651202ee9c2fbc1aff"
+    },
+    {
+      "archive_url": "https://intrusion-detection.distrinet-research.be/CNS2022/Datasets/CICIDS2017_improved.zip",
+      "archive_bytes": 343549013,
+      "member": "thursday.csv",
+      "bytes": 189519159,
+      "compressed_bytes": 54809596,
+      "crc32": "fe95440c",
+      "sha256": "78a4d11eaf473d099e30e71ddb01e0f38218e844c0a9cdd36602145d674af482"
+    },
+    {
+      "archive_url": "https://intrusion-detection.distrinet-research.be/CNS2022/Datasets/CICIDS2017_improved.zip",
+      "archive_bytes": 343549013,
+      "member": "tuesday.csv",
+      "bytes": 178397720,
+      "compressed_bytes": 56074903,
+      "crc32": "df090cf7",
+      "sha256": "e2a0a5b631dfc6b455cc9f9a88b944110637d70a7f74171473925f76f38b6b0c"
+    },
+    {
+      "archive_url": "https://intrusion-detection.distrinet-research.be/CNS2022/Datasets/CICIDS2017_improved.zip",
+      "archive_bytes": 343549013,
+      "member": "wednesday.csv",
+      "bytes": 291290505,
+      "compressed_bytes": 89163460,
+      "crc32": "f5b1c8f4",
+      "sha256": "bf46c5f3c792e8817381f724511229569606918eaf07ac986d7a2592b6341bc2"
+    }
+  ]
+}

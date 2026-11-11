@@ -1,0 +1,42 @@
+{
+  "primary_reference": 300,
+  "reference_sensitivity": [
+    100,
+    300,
+    1000
+  ],
+  "alpha": 0.01,
+  "np_delta": 0.05,
+  "query_rates": [
+    0.01,
+    0.05,
+    0.1,
+    0.25,
+    1.0
+  ],
+  "delays_windows": [
+    0,
+    100,
+    1000
+  ],
+  "clock_delays_seconds": [
+    300,
+    3600
+  ],
+  "policies": [
+    "Frozen",
+    "SC",
+    "NP",
+    "Rolling",
+    "ACI",
+    "DtACI",
+    "UP",
+    "QT",
+    "Silent"
+  ],
+  "feedback_default": "arrival",
+  "feedback_sensitivity": "issued for ACI, DtACI expert feedback, QT; UP unchanged",
+  "horizon_free_sensitivity": "Bernoulli querying, q=.1,D=100",
+  "decisions": "all target windows, source fallback on failed acquisition",
+  "capture_local": "first 60% source pool, stratified 70/30 source train/validation; final 40% chronological deployment; exploratory design"
+}

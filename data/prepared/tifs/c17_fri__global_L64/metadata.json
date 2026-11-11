@@ -1,0 +1,14 @@
+{
+  "case": "c17_fri",
+  "representation": "global_L64",
+  "supported": true,
+  "window_length": 64,
+  "grouping": "global",
+  "source_train": 3593,
+  "source_validation": 1540,
+  "target_windows": 3422,
+  "target_benign": 1034,
+  "target_attacks": 2388,
+  "discarded_target_tails": 15,
+  "flow_metadata_sha256": "ab7a9d44ee66d9105f9b17dc6227d4e0dca40a7bceac81da308c5eb7c5afd8fc"
+}

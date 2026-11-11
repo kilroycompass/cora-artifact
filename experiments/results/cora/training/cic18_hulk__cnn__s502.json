@@ -1,0 +1,90 @@
+{
+  "source": "cic18_hulk",
+  "model": "cnn",
+  "seed": 502,
+  "train_windows": 32768,
+  "available_training_windows": 48498,
+  "selection_windows": 2048,
+  "configuration": {
+    "cap": 32768,
+    "lr": 0.001,
+    "max_epochs": 60,
+    "patience": 10,
+    "selected_epoch": 1
+  },
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 0.09088618030324369,
+      "selection_ap": 0.9999934362313467,
+      "orientation": 1
+    },
+    {
+      "epoch": 2,
+      "loss": 0.0026251900347347146,
+      "selection_ap": 0.9999967121702308,
+      "orientation": 1
+    },
+    {
+      "epoch": 3,
+      "loss": 0.0017018007487195064,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 4,
+      "loss": 0.0011386081804687365,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 5,
+      "loss": 0.0009314596075000736,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 6,
+      "loss": 0.0005887441206340327,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 7,
+      "loss": 0.0006411169715789811,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.0005766155637587644,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.00040637274838672965,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 10,
+      "loss": 0.00030257886725593153,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 11,
+      "loss": 0.00026386390835853035,
+      "selection_ap": 1.0,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "DoS Hulk"
+  ],
+  "source_calibration_auc": 0.999942628738735,
+  "source_raw_auc": 0.999942628738735,
+  "training_seconds": 18.581025199964643
+}

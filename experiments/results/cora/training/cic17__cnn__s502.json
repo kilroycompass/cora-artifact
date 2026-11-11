@@ -1,0 +1,120 @@
+{
+  "source": "cic17",
+  "model": "cnn",
+  "seed": 502,
+  "train_windows": 10838,
+  "available_training_windows": 10838,
+  "selection_windows": 2048,
+  "configuration": {
+    "cap": 32768,
+    "lr": 0.001,
+    "max_epochs": 60,
+    "patience": 10,
+    "selected_epoch": 5
+  },
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 0.46716505832438054,
+      "selection_ap": 0.3992921739396674,
+      "orientation": 1
+    },
+    {
+      "epoch": 2,
+      "loss": 0.3497934847668674,
+      "selection_ap": 0.9125779906989588,
+      "orientation": -1
+    },
+    {
+      "epoch": 3,
+      "loss": 0.32426343267310215,
+      "selection_ap": 0.9259105102591155,
+      "orientation": -1
+    },
+    {
+      "epoch": 4,
+      "loss": 0.2735132434905334,
+      "selection_ap": 0.9425465974284407,
+      "orientation": -1
+    },
+    {
+      "epoch": 5,
+      "loss": 0.22906683676025924,
+      "selection_ap": 0.9452874294160404,
+      "orientation": -1
+    },
+    {
+      "epoch": 6,
+      "loss": 0.1897932861215471,
+      "selection_ap": 0.9275736636890767,
+      "orientation": -1
+    },
+    {
+      "epoch": 7,
+      "loss": 0.15719789710953835,
+      "selection_ap": 0.9365736891492995,
+      "orientation": -1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.13389155525775343,
+      "selection_ap": 0.93522892593668,
+      "orientation": -1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.11535666721853564,
+      "selection_ap": 0.9164454707738675,
+      "orientation": -1
+    },
+    {
+      "epoch": 10,
+      "loss": 0.10209124022622151,
+      "selection_ap": 0.9234595137305746,
+      "orientation": -1
+    },
+    {
+      "epoch": 11,
+      "loss": 0.08912482003891549,
+      "selection_ap": 0.9230048179233132,
+      "orientation": -1
+    },
+    {
+      "epoch": 12,
+      "loss": 0.07707778959201478,
+      "selection_ap": 0.9182451994624109,
+      "orientation": -1
+    },
+    {
+      "epoch": 13,
+      "loss": 0.06870801208572076,
+      "selection_ap": 0.9225156816952301,
+      "orientation": -1
+    },
+    {
+      "epoch": 14,
+      "loss": 0.06082614045023016,
+      "selection_ap": 0.90277838529158,
+      "orientation": -1
+    },
+    {
+      "epoch": 15,
+      "loss": 0.052388010363359695,
+      "selection_ap": 0.9073922556004747,
+      "orientation": -1
+    }
+  ],
+  "orientation": -1,
+  "source_families": [
+    "DoS GoldenEye",
+    "DoS Hulk",
+    "DoS Slowhttptest",
+    "DoS Slowloris",
+    "FTP-Patator",
+    "Heartbleed",
+    "SSH-Patator"
+  ],
+  "source_calibration_auc": 0.9454863889813168,
+  "source_raw_auc": 0.05451354797581323,
+  "training_seconds": 10.800342000089586
+}

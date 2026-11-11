@@ -1,0 +1,14 @@
+{
+  "case": "unsw",
+  "representation": "host_L16",
+  "supported": true,
+  "window_length": 16,
+  "grouping": "host",
+  "source_train": 70941,
+  "source_validation": 15363,
+  "target_windows": 61484,
+  "target_benign": 56034,
+  "target_attacks": 5450,
+  "discarded_target_tails": 314,
+  "flow_metadata_sha256": "23d4249ff78bbbd0d8a9ae2c93f6c0570546159632d473aabdd165d112df140a"
+}

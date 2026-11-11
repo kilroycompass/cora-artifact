@@ -1,0 +1,152 @@
+{
+  "selected": {
+    "gamma": 0.001,
+    "wealth_scale": 0.0001,
+    "qt_scale": 0.01
+  },
+  "trials": [
+    {
+      "policy": "ACI",
+      "parameter": "gamma",
+      "value": 0.001,
+      "fp": 24,
+      "tp": 1338,
+      "benign": 2530,
+      "attacks": 1469,
+      "fpr": 0.009486166007905139,
+      "tpr": 0.9108236895847516,
+      "labels": 3999,
+      "label_fraction": 1.0
+    },
+    {
+      "policy": "ACI",
+      "parameter": "gamma",
+      "value": 0.005,
+      "fp": 25,
+      "tp": 1332,
+      "benign": 2530,
+      "attacks": 1469,
+      "fpr": 0.009881422924901186,
+      "tpr": 0.9067392784206944,
+      "labels": 3999,
+      "label_fraction": 1.0
+    },
+    {
+      "policy": "ACI",
+      "parameter": "gamma",
+      "value": 0.02,
+      "fp": 26,
+      "tp": 1338,
+      "benign": 2530,
+      "attacks": 1469,
+      "fpr": 0.010276679841897233,
+      "tpr": 0.9108236895847516,
+      "labels": 3999,
+      "label_fraction": 1.0
+    },
+    {
+      "policy": "ACI",
+      "parameter": "gamma",
+      "value": 0.1,
+      "fp": 26,
+      "tp": 1348,
+      "benign": 2530,
+      "attacks": 1469,
+      "fpr": 0.010276679841897233,
+      "tpr": 0.9176310415248469,
+      "labels": 3999,
+      "label_fraction": 1.0
+    },
+    {
+      "policy": "UP",
+      "parameter": "wealth_scale",
+      "value": 0.0001,
+      "fp": 10,
+      "tp": 1147,
+      "benign": 2530,
+      "attacks": 1469,
+      "fpr": 0.003952569169960474,
+      "tpr": 0.7808032675289313,
+      "labels": 3999,
+      "label_fraction": 1.0
+    },
+    {
+      "policy": "UP",
+      "parameter": "wealth_scale",
+      "value": 0.01,
+      "fp": 15,
+      "tp": 166,
+      "benign": 2530,
+      "attacks": 1469,
+      "fpr": 0.005928853754940711,
+      "tpr": 0.11300204220558203,
+      "labels": 3999,
+      "label_fraction": 1.0
+    },
+    {
+      "policy": "UP",
+      "parameter": "wealth_scale",
+      "value": 1.0,
+      "fp": 24,
+      "tp": 120,
+      "benign": 2530,
+      "attacks": 1469,
+      "fpr": 0.009486166007905139,
+      "tpr": 0.08168822328114364,
+      "labels": 3999,
+      "label_fraction": 1.0
+    },
+    {
+      "policy": "QT",
+      "parameter": "qt_scale",
+      "value": 0.001,
+      "fp": 16,
+      "tp": 1337,
+      "benign": 2530,
+      "attacks": 1469,
+      "fpr": 0.006324110671936759,
+      "tpr": 0.910142954390742,
+      "labels": 3999,
+      "label_fraction": 1.0
+    },
+    {
+      "policy": "QT",
+      "parameter": "qt_scale",
+      "value": 0.01,
+      "fp": 25,
+      "tp": 1361,
+      "benign": 2530,
+      "attacks": 1469,
+      "fpr": 0.009881422924901186,
+      "tpr": 0.9264805990469708,
+      "labels": 3999,
+      "label_fraction": 1.0
+    },
+    {
+      "policy": "QT",
+      "parameter": "qt_scale",
+      "value": 0.1,
+      "fp": 26,
+      "tp": 1293,
+      "benign": 2530,
+      "attacks": 1469,
+      "fpr": 0.010276679841897233,
+      "tpr": 0.8801906058543226,
+      "labels": 3999,
+      "label_fraction": 1.0
+    },
+    {
+      "policy": "QT",
+      "parameter": "qt_scale",
+      "value": 1.0,
+      "fp": 26,
+      "tp": 219,
+      "benign": 2530,
+      "attacks": 1469,
+      "fpr": 0.010276679841897233,
+      "tpr": 0.14908100748808714,
+      "labels": 3999,
+      "label_fraction": 1.0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "case": "5g_bs1",
+  "representation": "host_L64",
+  "supported": true,
+  "window_length": 64,
+  "grouping": "host",
+  "source_train": 4769,
+  "source_validation": 2045,
+  "target_windows": 4531,
+  "target_benign": 2685,
+  "target_attacks": 1846,
+  "discarded_target_tails": 1344,
+  "flow_metadata_sha256": "84856a1c7155bfaef583f29127565fad8e49a07ab7d4611e3664e9d0a21d4353"
+}

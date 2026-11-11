@@ -1,0 +1,150 @@
+{
+  "original_executions": 120,
+  "original_distinct_prediction_sets": 56,
+  "rows": [
+    {
+      "source": "cic17",
+      "model": "cnn",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 5
+    },
+    {
+      "source": "cic17",
+      "model": "hgb",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "cic17",
+      "model": "logistic",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "cic17_fri",
+      "model": "cnn",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 5
+    },
+    {
+      "source": "cic17_fri",
+      "model": "hgb",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "cic17_fri",
+      "model": "logistic",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "cic17_thu",
+      "model": "cnn",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 5
+    },
+    {
+      "source": "cic17_thu",
+      "model": "hgb",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "cic17_thu",
+      "model": "logistic",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "cic18",
+      "model": "cnn",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 5
+    },
+    {
+      "source": "cic18",
+      "model": "hgb",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "cic18",
+      "model": "logistic",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "cic18_bot",
+      "model": "cnn",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 5
+    },
+    {
+      "source": "cic18_bot",
+      "model": "hgb",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "cic18_bot",
+      "model": "logistic",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "cic18_hulk",
+      "model": "cnn",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 5
+    },
+    {
+      "source": "cic18_hulk",
+      "model": "hgb",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "cic18_hulk",
+      "model": "logistic",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "ton",
+      "model": "cnn",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 5
+    },
+    {
+      "source": "ton",
+      "model": "hgb",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "ton",
+      "model": "logistic",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "unsw",
+      "model": "cnn",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 5
+    },
+    {
+      "source": "unsw",
+      "model": "hgb",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    },
+    {
+      "source": "unsw",
+      "model": "logistic",
+      "fitting_executions": 5,
+      "distinct_prediction_sets": 1
+    }
+  ]
+}

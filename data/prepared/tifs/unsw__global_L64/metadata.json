@@ -1,0 +1,14 @@
+{
+  "case": "unsw",
+  "representation": "global_L64",
+  "supported": true,
+  "window_length": 64,
+  "grouping": "global",
+  "source_train": 17739,
+  "source_validation": 3843,
+  "target_windows": 15375,
+  "target_benign": 142,
+  "target_attacks": 15233,
+  "discarded_target_tails": 58,
+  "flow_metadata_sha256": "23d4249ff78bbbd0d8a9ae2c93f6c0570546159632d473aabdd165d112df140a"
+}

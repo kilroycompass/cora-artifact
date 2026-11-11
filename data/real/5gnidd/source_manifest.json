@@ -1,0 +1,27 @@
+{
+  "publisher": "https://etsin.fairdata.fi/dataset/9d13ef28-2ca7-44b0-9950-225359afac65",
+  "doi": "10.23729/e80ac9df-d9fb-47e7-8d0d-01384a415361",
+  "package_sha256": "005a52fec21076107db379d693c134ed9346c019604ee24c8aa992aa491a4be8",
+  "publisher_file": {
+    "id": "b8fbee67-32f2-4f07-a37c-b2c8da768ac4",
+    "storage_identifier": "639515c6def5e749927572f71497057",
+    "pathname": "/BTS1_BTS2_fields_preserved.zip",
+    "filename": "BTS1_BTS2_fields_preserved.zip",
+    "size": 46527823,
+    "storage_service": "ida",
+    "csc_project": "2006938",
+    "checksum": "sha256:625f4d178c8a8224018cdedaba09ae397c804853c8db0ee1108773fbcf8f2a9d",
+    "frozen": "2022-12-10T23:27:02Z",
+    "modified": "2022-12-07T08:27:06Z",
+    "published": "2025-02-10T18:35:03Z",
+    "user": "ylekamsi@cscuserid",
+    "pas_process_running": false
+  },
+  "csv_files": [
+    {
+      "file": "BTS1_BTS2_fields_preserved.csv",
+      "sha256": "37287d5188006135d9575687439e47148c5b7adb1a139bd7cd37acc11cec1b9d"
+    }
+  ],
+  "license": "CC BY 4.0"
+}

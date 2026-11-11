@@ -1,0 +1,28 @@
+{
+  "file": "Friday-16-02-2018.csv",
+  "flows": 7390266,
+  "valid": 7390266,
+  "attempted_as_benign": 105606,
+  "windows": 115472,
+  "benign": 84871,
+  "attacks": 30601,
+  "features": [
+    "Flow Duration",
+    "Total Fwd Packet",
+    "Total Bwd packets",
+    "Total Length of Fwd Packet",
+    "Total Length of Bwd Packet",
+    "Flow IAT Mean",
+    "Flow IAT Std",
+    "Packet Length Mean",
+    "Packet Length Std",
+    "SYN Flag Count",
+    "ACK Flag Count",
+    "Fwd Packets/s"
+  ],
+  "timestamp_field": "Timestamp",
+  "timestamp_begin": "2018-02-16 12:26:55.181877+00:00",
+  "timestamp_end": "2018-02-16 22:15:24.854148+00:00",
+  "end_begin": 1518784035966020000,
+  "end_end": 1518819314168787000
+}

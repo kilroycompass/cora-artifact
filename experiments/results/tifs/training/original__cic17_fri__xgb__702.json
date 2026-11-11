@@ -1,0 +1,64 @@
+{
+  "fit_id": "original__cic17_fri__xgb__702",
+  "model": "xgb",
+  "fit_seed": 702,
+  "supported": true,
+  "train_windows": 3593,
+  "available_training_windows": 3593,
+  "selection_windows": 462,
+  "calibration_windows": 1078,
+  "source_benign_reference": 628,
+  "orientation": 1,
+  "configuration": {
+    "max_depth": 3,
+    "learning_rate": 0.05
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_depth": 3,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.9755091719190436,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_depth": 3,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.973395286664781,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_depth": 6,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.9733302478829764,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_depth": 6,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.9721147782130203,
+      "orientation": 1
+    }
+  ],
+  "source_auc": 0.9655484784147205,
+  "targets": {
+    "test": {
+      "n": 3422,
+      "benign": 1037,
+      "attacks": 2385,
+      "auc": 0.5217396578179679,
+      "ap": 0.782521452138476
+    }
+  },
+  "seconds": 1.6041015998926014,
+  "protocol_sha256": "46e953cd2307a49e4572772014b067ff2601a8e84b9c590cb9a8a661e4e013b6",
+  "experiment": "stronger_scorer",
+  "source": "cic17_fri"
+}

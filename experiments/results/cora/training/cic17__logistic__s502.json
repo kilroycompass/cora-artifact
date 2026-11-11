@@ -1,0 +1,61 @@
+{
+  "source": "cic17",
+  "model": "logistic",
+  "seed": 502,
+  "train_windows": 10838,
+  "available_training_windows": 10838,
+  "selection_windows": 2048,
+  "configuration": {
+    "C": 100.0
+  },
+  "trace": [
+    {
+      "configuration": {
+        "C": 0.01
+      },
+      "selection_ap": 0.9161715073682751,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "C": 0.1
+      },
+      "selection_ap": 0.9315500500768372,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "C": 1.0
+      },
+      "selection_ap": 0.9484806299954506,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "C": 10.0
+      },
+      "selection_ap": 0.9524366562330505,
+      "orientation": -1
+    },
+    {
+      "configuration": {
+        "C": 100.0
+      },
+      "selection_ap": 0.9527413372660859,
+      "orientation": -1
+    }
+  ],
+  "orientation": -1,
+  "source_families": [
+    "DoS GoldenEye",
+    "DoS Hulk",
+    "DoS Slowhttptest",
+    "DoS Slowloris",
+    "FTP-Patator",
+    "Heartbleed",
+    "SSH-Patator"
+  ],
+  "source_calibration_auc": 0.9527639948551976,
+  "source_raw_auc": 0.04573268486596646,
+  "training_seconds": 1.1839431999251246
+}

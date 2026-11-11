@@ -1,0 +1,23 @@
+Organizational-Unit: School of Electrical Engineering and Computer Science
+Source-Organization: University of Queensland
+Organization-Address: Brisbane, Queensland, Australia 4072
+Contact-Name: Mr Majed Luay
+Contact-Email: s4517659@student.uq.edu.au
+External-Description: UQRDM dataset created from NFV3DATA-A11964-A11964
+Bagging-Date: 2025-02-28
+External-Identifier: 02934b58528a226b_NFV3DATA-A11964_A11964
+Bag-Group-Identifier: 02934b58528a226b_NFV3DATA-A11964_A11964
+Bag-Count: 1 of 1
+RAiD: https://hdl.handle.net/102.100.100/602564
+FOR Codes: [
+    "4604 - Cybersecurity and privacy"
+]
+Data Types: 
+Creator: {
+    "firstName": "Majed",
+    "surname": "Luay",
+    "displayName": "Mr Majed Luay",
+    "mail": "s4517659@student.uq.edu.au",
+    "eduPersonPrincipalName": "s4517659@uq.edu.au",
+    "eduPersonOrcid": "0009-0002-2103-3023"
+}

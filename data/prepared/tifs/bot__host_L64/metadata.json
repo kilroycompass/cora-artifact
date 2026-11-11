@@ -1,0 +1,14 @@
+{
+  "case": "bot",
+  "representation": "host_L64",
+  "supported": true,
+  "window_length": 64,
+  "grouping": "host",
+  "source_train": 111122,
+  "source_validation": 47625,
+  "target_windows": 105832,
+  "target_benign": 12,
+  "target_attacks": 105820,
+  "discarded_target_tails": 414,
+  "flow_metadata_sha256": "d580e1199b62319e99edf9df6c6d38dc49b8548b219f89cd7a38fd79c8929e10"
+}

@@ -1,0 +1,120 @@
+{
+  "source": "cic18_bot",
+  "model": "cnn",
+  "seed": 504,
+  "train_windows": 32768,
+  "available_training_windows": 41418,
+  "selection_windows": 2048,
+  "configuration": {
+    "cap": 32768,
+    "lr": 0.001,
+    "max_epochs": 60,
+    "patience": 10,
+    "selected_epoch": 6
+  },
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 0.6529512647539377,
+      "selection_ap": 0.7431412900434663,
+      "orientation": 1
+    },
+    {
+      "epoch": 2,
+      "loss": 0.5487031762022525,
+      "selection_ap": 0.9006249809514855,
+      "orientation": 1
+    },
+    {
+      "epoch": 3,
+      "loss": 0.20681048996630125,
+      "selection_ap": 0.9976319982616851,
+      "orientation": 1
+    },
+    {
+      "epoch": 4,
+      "loss": 0.05678862125205342,
+      "selection_ap": 0.9997911275134262,
+      "orientation": 1
+    },
+    {
+      "epoch": 5,
+      "loss": 0.029121347972250078,
+      "selection_ap": 0.9997056904665323,
+      "orientation": 1
+    },
+    {
+      "epoch": 6,
+      "loss": 0.015771457050504978,
+      "selection_ap": 0.9999934761892992,
+      "orientation": 1
+    },
+    {
+      "epoch": 7,
+      "loss": 0.010017553213401698,
+      "selection_ap": 0.9999970928648001,
+      "orientation": 1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.007466327964721131,
+      "selection_ap": 0.9999913234572669,
+      "orientation": 1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.004542128574030357,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 10,
+      "loss": 0.0040065259317998425,
+      "selection_ap": 0.9999970885249923,
+      "orientation": 1
+    },
+    {
+      "epoch": 11,
+      "loss": 0.004073259608958324,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 12,
+      "loss": 0.002936650858828216,
+      "selection_ap": 0.9999808502163687,
+      "orientation": 1
+    },
+    {
+      "epoch": 13,
+      "loss": 0.003102021133827293,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 14,
+      "loss": 0.0026652181694544197,
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "epoch": 15,
+      "loss": 0.002821981195211265,
+      "selection_ap": 0.9999985439540239,
+      "orientation": 1
+    },
+    {
+      "epoch": 16,
+      "loss": 0.002078444836683957,
+      "selection_ap": 0.9999992713558319,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Botnet Ares"
+  ],
+  "source_calibration_auc": 0.9998251588295223,
+  "source_raw_auc": 0.9998251588295223,
+  "training_seconds": 24.154734899988398
+}

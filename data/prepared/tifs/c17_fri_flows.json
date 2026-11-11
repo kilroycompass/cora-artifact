@@ -1,0 +1,24 @@
+{
+  "raw_file": "data\\real\\corrected_cic17\\friday.csv",
+  "valid_rows": 547557,
+  "discarded": 0,
+  "fields": [
+    "Flow Duration",
+    "Total Fwd Packet",
+    "Total Bwd packets",
+    "Total Length of Fwd Packet",
+    "Total Length of Bwd Packet",
+    "Flow IAT Mean",
+    "Flow IAT Std",
+    "Packet Length Mean",
+    "Packet Length Std",
+    "SYN Flag Count",
+    "ACK Flag Count",
+    "Fwd Packets/s"
+  ],
+  "source_cutoff_seconds": 1499450127.465485,
+  "case": "c17_fri",
+  "flows": 547557,
+  "begin": 1499428834.898553,
+  "end": 1499457761.169108
+}

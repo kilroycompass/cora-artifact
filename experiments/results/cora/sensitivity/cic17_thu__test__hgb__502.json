@@ -1,0 +1,1040 @@
+[
+  {
+    "experiment": "source_tuned",
+    "parameters": {
+      "gamma": 0.001,
+      "wealth_scale": 0.0001,
+      "qt_scale": 0.001
+    },
+    "source": "cic17_thu",
+    "scenario": "C17 local Thu",
+    "split": "test",
+    "regime": "capture_local",
+    "model": "hgb",
+    "seed": 502,
+    "methods": {
+      "Frozen": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 0,
+        "label_fraction": 0.0
+      },
+      "SC": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 22,
+        "label_fraction": 0.009721608484312859
+      },
+      "NP": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 22,
+        "label_fraction": 0.009721608484312859
+      },
+      "Rolling": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 22,
+        "label_fraction": 0.009721608484312859
+      },
+      "ACI": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 22,
+        "label_fraction": 0.009721608484312859
+      },
+      "DtACI": {
+        "fp": 10,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.010395010395010396,
+        "tpr": 0.8416602613374328,
+        "labels": 22,
+        "label_fraction": 0.009721608484312859
+      },
+      "UP": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 22,
+        "label_fraction": 0.009721608484312859
+      },
+      "QT": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 22,
+        "label_fraction": 0.009721608484312859
+      },
+      "Silent": {
+        "fp": 0,
+        "tp": 0,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.0,
+        "tpr": 0.0,
+        "labels": 0,
+        "label_fraction": 0.0
+      }
+    },
+    "activation": -1,
+    "reference_received": 10,
+    "n": 2263,
+    "query_fraction": 0.01,
+    "delay": 0,
+    "delay_seconds": null,
+    "alpha": 0.01,
+    "reference": 300,
+    "feedback": "arrival",
+    "query_design": "exact",
+    "opportunities": 22
+  },
+  {
+    "experiment": "source_tuned",
+    "parameters": {
+      "gamma": 0.001,
+      "wealth_scale": 0.0001,
+      "qt_scale": 0.001
+    },
+    "source": "cic17_thu",
+    "scenario": "C17 local Thu",
+    "split": "test",
+    "regime": "capture_local",
+    "model": "hgb",
+    "seed": 502,
+    "methods": {
+      "Frozen": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 0,
+        "label_fraction": 0.0
+      },
+      "SC": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 226,
+        "label_fraction": 0.09986743261157756
+      },
+      "NP": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 226,
+        "label_fraction": 0.09986743261157756
+      },
+      "Rolling": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 226,
+        "label_fraction": 0.09986743261157756
+      },
+      "ACI": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 226,
+        "label_fraction": 0.09986743261157756
+      },
+      "DtACI": {
+        "fp": 12,
+        "tp": 1112,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.012474012474012475,
+        "tpr": 0.8547271329746349,
+        "labels": 226,
+        "label_fraction": 0.09986743261157756
+      },
+      "UP": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 226,
+        "label_fraction": 0.09986743261157756
+      },
+      "QT": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 226,
+        "label_fraction": 0.09986743261157756
+      },
+      "Silent": {
+        "fp": 0,
+        "tp": 0,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.0,
+        "tpr": 0.0,
+        "labels": 0,
+        "label_fraction": 0.0
+      }
+    },
+    "activation": -1,
+    "reference_received": 83,
+    "n": 2263,
+    "query_fraction": 0.1,
+    "delay": 100,
+    "delay_seconds": null,
+    "alpha": 0.01,
+    "reference": 300,
+    "feedback": "arrival",
+    "query_design": "exact",
+    "opportunities": 226
+  },
+  {
+    "experiment": "source_tuned",
+    "parameters": {
+      "gamma": 0.001,
+      "wealth_scale": 0.0001,
+      "qt_scale": 0.001
+    },
+    "source": "cic17_thu",
+    "scenario": "C17 local Thu",
+    "split": "test",
+    "regime": "capture_local",
+    "model": "hgb",
+    "seed": 502,
+    "methods": {
+      "Frozen": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 0,
+        "label_fraction": 0.0
+      },
+      "SC": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 1601,
+        "label_fraction": 0.7074679628811312
+      },
+      "NP": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 1601,
+        "label_fraction": 0.7074679628811312
+      },
+      "Rolling": {
+        "fp": 13,
+        "tp": 1097,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.013513513513513514,
+        "tpr": 0.8431975403535742,
+        "labels": 2263,
+        "label_fraction": 1.0
+      },
+      "ACI": {
+        "fp": 14,
+        "tp": 1097,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.014553014553014554,
+        "tpr": 0.8431975403535742,
+        "labels": 2263,
+        "label_fraction": 1.0
+      },
+      "DtACI": {
+        "fp": 13,
+        "tp": 998,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.013513513513513514,
+        "tpr": 0.7671022290545734,
+        "labels": 2263,
+        "label_fraction": 1.0
+      },
+      "UP": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 2263,
+        "label_fraction": 1.0
+      },
+      "QT": {
+        "fp": 9,
+        "tp": 1095,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.009355509355509356,
+        "tpr": 0.8416602613374328,
+        "labels": 2263,
+        "label_fraction": 1.0
+      },
+      "Silent": {
+        "fp": 0,
+        "tp": 0,
+        "benign": 962,
+        "attacks": 1301,
+        "fpr": 0.0,
+        "tpr": 0.0,
+        "labels": 0,
+        "label_fraction": 0.0
+      }
+    },
+    "activation": 1601,
+    "reference_received": 300,
+    "n": 2263,
+    "query_fraction": 1.0,
+    "delay": 0,
+    "delay_seconds": null,
+    "alpha": 0.01,
+    "reference": 300,
+    "feedback": "arrival",
+    "query_design": "exact",
+    "opportunities": 2263
+  },
+  {
+    "experiment": "origin",
+    "fraction": 0.25,
+    "source": "cic17_thu",
+    "scenario": "C17 local Thu",
+    "split": "test",
+    "regime": "capture_local",
+    "model": "hgb",
+    "seed": 502,
+    "methods": {
+      "Frozen": {
+        "fp": 8,
+        "tp": 689,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.009029345372460496,
+        "tpr": 0.8485221674876847,
+        "labels": 0,
+        "label_fraction": 0.0
+      },
+      "SC": {
+        "fp": 8,
+        "tp": 689,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.009029345372460496,
+        "tpr": 0.8485221674876847,
+        "labels": 169,
+        "label_fraction": 0.09952885747938751
+      },
+      "NP": {
+        "fp": 8,
+        "tp": 689,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.009029345372460496,
+        "tpr": 0.8485221674876847,
+        "labels": 169,
+        "label_fraction": 0.09952885747938751
+      },
+      "Rolling": {
+        "fp": 8,
+        "tp": 689,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.009029345372460496,
+        "tpr": 0.8485221674876847,
+        "labels": 169,
+        "label_fraction": 0.09952885747938751
+      },
+      "ACI": {
+        "fp": 9,
+        "tp": 689,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.010158013544018058,
+        "tpr": 0.8485221674876847,
+        "labels": 169,
+        "label_fraction": 0.09952885747938751
+      },
+      "DtACI": {
+        "fp": 4,
+        "tp": 545,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.004514672686230248,
+        "tpr": 0.6711822660098522,
+        "labels": 169,
+        "label_fraction": 0.09952885747938751
+      },
+      "UP": {
+        "fp": 19,
+        "tp": 250,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.02144469525959368,
+        "tpr": 0.3078817733990148,
+        "labels": 169,
+        "label_fraction": 0.09952885747938751
+      },
+      "QT": {
+        "fp": 8,
+        "tp": 689,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.009029345372460496,
+        "tpr": 0.8485221674876847,
+        "labels": 169,
+        "label_fraction": 0.09952885747938751
+      },
+      "Silent": {
+        "fp": 0,
+        "tp": 0,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.0,
+        "tpr": 0.0,
+        "labels": 0,
+        "label_fraction": 0.0
+      }
+    },
+    "activation": -1,
+    "reference_received": 84,
+    "n": 1698,
+    "query_fraction": 0.1,
+    "delay": 100,
+    "delay_seconds": null,
+    "alpha": 0.01,
+    "reference": 300,
+    "feedback": "arrival",
+    "query_design": "exact",
+    "opportunities": 169
+  },
+  {
+    "experiment": "origin",
+    "fraction": 0.25,
+    "source": "cic17_thu",
+    "scenario": "C17 local Thu",
+    "split": "test",
+    "regime": "capture_local",
+    "model": "hgb",
+    "seed": 502,
+    "methods": {
+      "Frozen": {
+        "fp": 8,
+        "tp": 689,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.009029345372460496,
+        "tpr": 0.8485221674876847,
+        "labels": 0,
+        "label_fraction": 0.0
+      },
+      "SC": {
+        "fp": 15,
+        "tp": 689,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.016930022573363433,
+        "tpr": 0.8485221674876847,
+        "labels": 1212,
+        "label_fraction": 0.7137809187279152
+      },
+      "NP": {
+        "fp": 8,
+        "tp": 689,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.009029345372460496,
+        "tpr": 0.8485221674876847,
+        "labels": 1212,
+        "label_fraction": 0.7137809187279152
+      },
+      "Rolling": {
+        "fp": 11,
+        "tp": 693,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.012415349887133182,
+        "tpr": 0.853448275862069,
+        "labels": 1698,
+        "label_fraction": 1.0
+      },
+      "ACI": {
+        "fp": 12,
+        "tp": 697,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.013544018058690745,
+        "tpr": 0.8583743842364532,
+        "labels": 1698,
+        "label_fraction": 1.0
+      },
+      "DtACI": {
+        "fp": 11,
+        "tp": 610,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.012415349887133182,
+        "tpr": 0.7512315270935961,
+        "labels": 1698,
+        "label_fraction": 1.0
+      },
+      "UP": {
+        "fp": 11,
+        "tp": 613,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.012415349887133182,
+        "tpr": 0.7549261083743842,
+        "labels": 1698,
+        "label_fraction": 1.0
+      },
+      "QT": {
+        "fp": 8,
+        "tp": 689,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.009029345372460496,
+        "tpr": 0.8485221674876847,
+        "labels": 1698,
+        "label_fraction": 1.0
+      },
+      "Silent": {
+        "fp": 0,
+        "tp": 0,
+        "benign": 886,
+        "attacks": 812,
+        "fpr": 0.0,
+        "tpr": 0.0,
+        "labels": 0,
+        "label_fraction": 0.0
+      }
+    },
+    "activation": 1212,
+    "reference_received": 300,
+    "n": 1698,
+    "query_fraction": 1.0,
+    "delay": 100,
+    "delay_seconds": null,
+    "alpha": 0.01,
+    "reference": 300,
+    "feedback": "arrival",
+    "query_design": "exact",
+    "opportunities": 1698
+  },
+  {
+    "experiment": "origin",
+    "fraction": 0.5,
+    "source": "cic17_thu",
+    "scenario": "C17 local Thu",
+    "split": "test",
+    "regime": "capture_local",
+    "model": "hgb",
+    "seed": 502,
+    "methods": {
+      "Frozen": {
+        "fp": 8,
+        "tp": 271,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.009900990099009901,
+        "tpr": 0.8364197530864198,
+        "labels": 0,
+        "label_fraction": 0.0
+      },
+      "SC": {
+        "fp": 8,
+        "tp": 271,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.009900990099009901,
+        "tpr": 0.8364197530864198,
+        "labels": 113,
+        "label_fraction": 0.09982332155477032
+      },
+      "NP": {
+        "fp": 8,
+        "tp": 271,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.009900990099009901,
+        "tpr": 0.8364197530864198,
+        "labels": 113,
+        "label_fraction": 0.09982332155477032
+      },
+      "Rolling": {
+        "fp": 8,
+        "tp": 271,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.009900990099009901,
+        "tpr": 0.8364197530864198,
+        "labels": 113,
+        "label_fraction": 0.09982332155477032
+      },
+      "ACI": {
+        "fp": 9,
+        "tp": 271,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.011138613861386138,
+        "tpr": 0.8364197530864198,
+        "labels": 113,
+        "label_fraction": 0.09982332155477032
+      },
+      "DtACI": {
+        "fp": 7,
+        "tp": 272,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.008663366336633664,
+        "tpr": 0.8395061728395061,
+        "labels": 113,
+        "label_fraction": 0.09982332155477032
+      },
+      "UP": {
+        "fp": 11,
+        "tp": 182,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.013613861386138614,
+        "tpr": 0.5617283950617284,
+        "labels": 113,
+        "label_fraction": 0.09982332155477032
+      },
+      "QT": {
+        "fp": 8,
+        "tp": 271,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.009900990099009901,
+        "tpr": 0.8364197530864198,
+        "labels": 113,
+        "label_fraction": 0.09982332155477032
+      },
+      "Silent": {
+        "fp": 0,
+        "tp": 0,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.0,
+        "tpr": 0.0,
+        "labels": 0,
+        "label_fraction": 0.0
+      }
+    },
+    "activation": -1,
+    "reference_received": 74,
+    "n": 1132,
+    "query_fraction": 0.1,
+    "delay": 100,
+    "delay_seconds": null,
+    "alpha": 0.01,
+    "reference": 300,
+    "feedback": "arrival",
+    "query_design": "exact",
+    "opportunities": 113
+  },
+  {
+    "experiment": "origin",
+    "fraction": 0.5,
+    "source": "cic17_thu",
+    "scenario": "C17 local Thu",
+    "split": "test",
+    "regime": "capture_local",
+    "model": "hgb",
+    "seed": 502,
+    "methods": {
+      "Frozen": {
+        "fp": 8,
+        "tp": 271,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.009900990099009901,
+        "tpr": 0.8364197530864198,
+        "labels": 0,
+        "label_fraction": 0.0
+      },
+      "SC": {
+        "fp": 14,
+        "tp": 271,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.017326732673267328,
+        "tpr": 0.8364197530864198,
+        "labels": 724,
+        "label_fraction": 0.6395759717314488
+      },
+      "NP": {
+        "fp": 8,
+        "tp": 271,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.009900990099009901,
+        "tpr": 0.8364197530864198,
+        "labels": 724,
+        "label_fraction": 0.6395759717314488
+      },
+      "Rolling": {
+        "fp": 11,
+        "tp": 271,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.013613861386138614,
+        "tpr": 0.8364197530864198,
+        "labels": 1132,
+        "label_fraction": 1.0
+      },
+      "ACI": {
+        "fp": 11,
+        "tp": 274,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.013613861386138614,
+        "tpr": 0.845679012345679,
+        "labels": 1132,
+        "label_fraction": 1.0
+      },
+      "DtACI": {
+        "fp": 11,
+        "tp": 274,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.013613861386138614,
+        "tpr": 0.845679012345679,
+        "labels": 1132,
+        "label_fraction": 1.0
+      },
+      "UP": {
+        "fp": 11,
+        "tp": 248,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.013613861386138614,
+        "tpr": 0.7654320987654321,
+        "labels": 1132,
+        "label_fraction": 1.0
+      },
+      "QT": {
+        "fp": 8,
+        "tp": 271,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.009900990099009901,
+        "tpr": 0.8364197530864198,
+        "labels": 1132,
+        "label_fraction": 1.0
+      },
+      "Silent": {
+        "fp": 0,
+        "tp": 0,
+        "benign": 808,
+        "attacks": 324,
+        "fpr": 0.0,
+        "tpr": 0.0,
+        "labels": 0,
+        "label_fraction": 0.0
+      }
+    },
+    "activation": 724,
+    "reference_received": 300,
+    "n": 1132,
+    "query_fraction": 1.0,
+    "delay": 100,
+    "delay_seconds": null,
+    "alpha": 0.01,
+    "reference": 300,
+    "feedback": "arrival",
+    "query_design": "exact",
+    "opportunities": 1132
+  },
+  {
+    "experiment": "origin",
+    "fraction": 0.75,
+    "source": "cic17_thu",
+    "scenario": "C17 local Thu",
+    "split": "test",
+    "regime": "capture_local",
+    "model": "hgb",
+    "seed": 502,
+    "methods": {
+      "Frozen": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 0,
+        "label_fraction": 0.0
+      },
+      "SC": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 56,
+        "label_fraction": 0.0989399293286219
+      },
+      "NP": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 56,
+        "label_fraction": 0.0989399293286219
+      },
+      "Rolling": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 56,
+        "label_fraction": 0.0989399293286219
+      },
+      "ACI": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 56,
+        "label_fraction": 0.0989399293286219
+      },
+      "DtACI": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 56,
+        "label_fraction": 0.0989399293286219
+      },
+      "UP": {
+        "fp": 4,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.007067137809187279,
+        "tpr": null,
+        "labels": 56,
+        "label_fraction": 0.0989399293286219
+      },
+      "QT": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 56,
+        "label_fraction": 0.0989399293286219
+      },
+      "Silent": {
+        "fp": 0,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.0,
+        "tpr": null,
+        "labels": 0,
+        "label_fraction": 0.0
+      }
+    },
+    "activation": -1,
+    "reference_received": 47,
+    "n": 566,
+    "query_fraction": 0.1,
+    "delay": 100,
+    "delay_seconds": null,
+    "alpha": 0.01,
+    "reference": 300,
+    "feedback": "arrival",
+    "query_design": "exact",
+    "opportunities": 56
+  },
+  {
+    "experiment": "origin",
+    "fraction": 0.75,
+    "source": "cic17_thu",
+    "scenario": "C17 local Thu",
+    "split": "test",
+    "regime": "capture_local",
+    "model": "hgb",
+    "seed": 502,
+    "methods": {
+      "Frozen": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 0,
+        "label_fraction": 0.0
+      },
+      "SC": {
+        "fp": 9,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.015901060070671377,
+        "tpr": null,
+        "labels": 400,
+        "label_fraction": 0.7067137809187279
+      },
+      "NP": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 400,
+        "label_fraction": 0.7067137809187279
+      },
+      "Rolling": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 566,
+        "label_fraction": 1.0
+      },
+      "ACI": {
+        "fp": 11,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.019434628975265017,
+        "tpr": null,
+        "labels": 566,
+        "label_fraction": 1.0
+      },
+      "DtACI": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 566,
+        "label_fraction": 1.0
+      },
+      "UP": {
+        "fp": 9,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.015901060070671377,
+        "tpr": null,
+        "labels": 566,
+        "label_fraction": 1.0
+      },
+      "QT": {
+        "fp": 8,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.014134275618374558,
+        "tpr": null,
+        "labels": 566,
+        "label_fraction": 1.0
+      },
+      "Silent": {
+        "fp": 0,
+        "tp": 0,
+        "benign": 566,
+        "attacks": 0,
+        "fpr": 0.0,
+        "tpr": null,
+        "labels": 0,
+        "label_fraction": 0.0
+      }
+    },
+    "activation": 400,
+    "reference_received": 300,
+    "n": 566,
+    "query_fraction": 1.0,
+    "delay": 100,
+    "delay_seconds": null,
+    "alpha": 0.01,
+    "reference": 300,
+    "feedback": "arrival",
+    "query_design": "exact",
+    "opportunities": 566
+  },
+  {
+    "experiment": "recency_infeasible",
+    "source": "cic17_thu",
+    "scenario": "C17 local Thu",
+    "split": "test",
+    "regime": "capture_local",
+    "model": "hgb",
+    "seed": 502
+  }
+]

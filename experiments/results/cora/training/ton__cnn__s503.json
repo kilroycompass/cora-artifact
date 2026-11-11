@@ -1,0 +1,111 @@
+{
+  "source": "ton",
+  "model": "cnn",
+  "seed": 503,
+  "train_windows": 32768,
+  "available_training_windows": 159015,
+  "selection_windows": 2048,
+  "configuration": {
+    "cap": 32768,
+    "lr": 0.001,
+    "max_epochs": 60,
+    "patience": 10,
+    "selected_epoch": 4
+  },
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 0.5841793823055923,
+      "selection_ap": 0.9081975855763238,
+      "orientation": 1
+    },
+    {
+      "epoch": 2,
+      "loss": 0.5368460181634873,
+      "selection_ap": 0.8736774419693697,
+      "orientation": 1
+    },
+    {
+      "epoch": 3,
+      "loss": 0.5268376530148089,
+      "selection_ap": 0.8693577072630941,
+      "orientation": 1
+    },
+    {
+      "epoch": 4,
+      "loss": 0.5210296160075814,
+      "selection_ap": 0.9210003771311985,
+      "orientation": 1
+    },
+    {
+      "epoch": 5,
+      "loss": 0.5143014243803918,
+      "selection_ap": 0.9184824834788764,
+      "orientation": 1
+    },
+    {
+      "epoch": 6,
+      "loss": 0.5098889314103872,
+      "selection_ap": 0.8921463486832543,
+      "orientation": 1
+    },
+    {
+      "epoch": 7,
+      "loss": 0.5066283305641264,
+      "selection_ap": 0.882032822617616,
+      "orientation": 1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.5018567591905594,
+      "selection_ap": 0.8863588777163688,
+      "orientation": 1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.49851686297915876,
+      "selection_ap": 0.8211669383314326,
+      "orientation": 1
+    },
+    {
+      "epoch": 10,
+      "loss": 0.49407172994688153,
+      "selection_ap": 0.8357805215000994,
+      "orientation": 1
+    },
+    {
+      "epoch": 11,
+      "loss": 0.49144401401281357,
+      "selection_ap": 0.7313501652950496,
+      "orientation": 1
+    },
+    {
+      "epoch": 12,
+      "loss": 0.4859816317912191,
+      "selection_ap": 0.8541212063209874,
+      "orientation": 1
+    },
+    {
+      "epoch": 13,
+      "loss": 0.48224403033964336,
+      "selection_ap": 0.7902136468093731,
+      "orientation": 1
+    },
+    {
+      "epoch": 14,
+      "loss": 0.47933747596107423,
+      "selection_ap": 0.7185327305537041,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "ddos",
+    "dos",
+    "injection",
+    "scanning"
+  ],
+  "source_calibration_auc": 0.9108209316613735,
+  "source_raw_auc": 0.9108209316613735,
+  "training_seconds": 26.713967200135812
+}

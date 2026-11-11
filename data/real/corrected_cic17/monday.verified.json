@@ -1,0 +1,9 @@
+{
+  "archive_url": "https://intrusion-detection.distrinet-research.be/CNS2022/Datasets/CICIDS2017_improved.zip",
+  "archive_bytes": 343549013,
+  "member": "monday.csv",
+  "bytes": 207875155,
+  "compressed_bytes": 66068274,
+  "crc32": "e08d4445",
+  "sha256": "51fe5dc962626efb4ae70dce0303072fb780da0932822b651202ee9c2fbc1aff"
+}

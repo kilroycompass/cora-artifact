@@ -1,0 +1,41 @@
+{
+  "version": "CNS2022 corrected release, updated 2023",
+  "files": [
+    {
+      "archive_url": "https://intrusion-detection.distrinet-research.be/CNS2022/Datasets/CSECICIDS2018_improved.zip",
+      "archive_bytes": 10426851729,
+      "member": "Wednesday-14-02-2018.csv",
+      "bytes": 3262583806,
+      "compressed_bytes": 930748488,
+      "crc32": "af553b82",
+      "sha256": "4ceed4ba26973004e3a86ae0c57d6a4ddd9742f1b222f44209cd7c1c48618fdb"
+    },
+    {
+      "archive_url": "https://intrusion-detection.distrinet-research.be/CNS2022/Datasets/CSECICIDS2018_improved.zip",
+      "archive_bytes": 10426851729,
+      "member": "Friday-16-02-2018.csv",
+      "bytes": 4211741805,
+      "compressed_bytes": 1185737835,
+      "crc32": "e9afc9aa",
+      "sha256": "a16b76a454a25fa4fd84c320f32e3164b22c09f537be3e77450ddeb2168a7622"
+    },
+    {
+      "archive_url": "https://intrusion-detection.distrinet-research.be/CNS2022/Datasets/CSECICIDS2018_improved.zip",
+      "archive_bytes": 10426851729,
+      "member": "Thursday-15-02-2018.csv",
+      "bytes": 2992535617,
+      "compressed_bytes": 875626024,
+      "crc32": "8aec59d2",
+      "sha256": "a4be06a9776310dee18e3dae93d6dfef385e8d61db2e1775fc4c104ba0ee09cb"
+    },
+    {
+      "archive_url": "https://intrusion-detection.distrinet-research.be/CNS2022/Datasets/CSECICIDS2018_improved.zip",
+      "archive_bytes": 10426851729,
+      "member": "Friday-02-03-2018.csv",
+      "bytes": 3689837784,
+      "compressed_bytes": 1070348706,
+      "crc32": "1ddc33bc",
+      "sha256": "f4641bab290bc07f48c560267250748f25ba0fa77029d02fe1d1c01bef3731d5"
+    }
+  ]
+}

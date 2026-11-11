@@ -1,0 +1,147 @@
+{
+  "source": "ton",
+  "model": "cnn",
+  "seed": 502,
+  "train_windows": 32768,
+  "available_training_windows": 159015,
+  "selection_windows": 2048,
+  "configuration": {
+    "cap": 32768,
+    "lr": 0.001,
+    "max_epochs": 60,
+    "patience": 10,
+    "selected_epoch": 10
+  },
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 0.5892165177501738,
+      "selection_ap": 0.9431715378573289,
+      "orientation": 1
+    },
+    {
+      "epoch": 2,
+      "loss": 0.5359344154130667,
+      "selection_ap": 0.8539641983164499,
+      "orientation": 1
+    },
+    {
+      "epoch": 3,
+      "loss": 0.5214360607787967,
+      "selection_ap": 0.8448185495552503,
+      "orientation": 1
+    },
+    {
+      "epoch": 4,
+      "loss": 0.5116080921143293,
+      "selection_ap": 0.8423952372995531,
+      "orientation": 1
+    },
+    {
+      "epoch": 5,
+      "loss": 0.5060440329834819,
+      "selection_ap": 0.905338653608676,
+      "orientation": 1
+    },
+    {
+      "epoch": 6,
+      "loss": 0.5010553430765867,
+      "selection_ap": 0.8908708734395927,
+      "orientation": 1
+    },
+    {
+      "epoch": 7,
+      "loss": 0.49640531186014414,
+      "selection_ap": 0.8980781315048212,
+      "orientation": 1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.4925447248388082,
+      "selection_ap": 0.9137332955706255,
+      "orientation": 1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.48939164145849645,
+      "selection_ap": 0.9350466330321401,
+      "orientation": 1
+    },
+    {
+      "epoch": 10,
+      "loss": 0.48611970571801066,
+      "selection_ap": 0.9611641074521,
+      "orientation": 1
+    },
+    {
+      "epoch": 11,
+      "loss": 0.4806754847522825,
+      "selection_ap": 0.9351971575509385,
+      "orientation": 1
+    },
+    {
+      "epoch": 12,
+      "loss": 0.47762419073842466,
+      "selection_ap": 0.9032179086479184,
+      "orientation": 1
+    },
+    {
+      "epoch": 13,
+      "loss": 0.4748237896710634,
+      "selection_ap": 0.8733059863877238,
+      "orientation": 1
+    },
+    {
+      "epoch": 14,
+      "loss": 0.4689174343366176,
+      "selection_ap": 0.8880490498921261,
+      "orientation": 1
+    },
+    {
+      "epoch": 15,
+      "loss": 0.4630137688945979,
+      "selection_ap": 0.8979732731203918,
+      "orientation": 1
+    },
+    {
+      "epoch": 16,
+      "loss": 0.46145564736798406,
+      "selection_ap": 0.797673644277084,
+      "orientation": 1
+    },
+    {
+      "epoch": 17,
+      "loss": 0.4567203908227384,
+      "selection_ap": 0.8673259508231578,
+      "orientation": 1
+    },
+    {
+      "epoch": 18,
+      "loss": 0.4500767688732594,
+      "selection_ap": 0.8867161133744819,
+      "orientation": 1
+    },
+    {
+      "epoch": 19,
+      "loss": 0.44580753264017403,
+      "selection_ap": 0.8560630945244836,
+      "orientation": 1
+    },
+    {
+      "epoch": 20,
+      "loss": 0.44231437472626567,
+      "selection_ap": 0.7945566101401162,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "ddos",
+    "dos",
+    "injection",
+    "scanning"
+  ],
+  "source_calibration_auc": 0.9550624626883186,
+  "source_raw_auc": 0.9550624626883186,
+  "training_seconds": 33.30945479986258
+}

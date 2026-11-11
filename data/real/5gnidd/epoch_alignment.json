@@ -1,0 +1,195 @@
+{
+  "client": "Argus ra 3.0.8.2",
+  "records": [
+    {
+      "station": 1,
+      "session": "Goldeneye1.csv",
+      "supported": true,
+      "rows": 93803,
+      "argus_sha256": "0f1e97fb3b6b3f78ec63d4ebf67fc3ac5a0acf95cf9dd76dbd2352a4dd0978e0",
+      "labelled_csv_sha256": "e093e8f62842379743d040b5fbf7c7bc30db08e8464e8d1388f2f2a799dabc0b",
+      "epoch_csv_sha256": "eaf48bc8d38a787ab550a1e4fa5cb2b5d4a6c11030712812b2b46838aaf20ffd",
+      "begin": 1661768601.469534,
+      "end": 1661770408.20689,
+      "alignment": "Exact Seq, SrcAddr and DstAddr; duration within 20 microseconds",
+      "command": "ra -X -n -u -p 6 -r FILE -s seq stime ltime saddr:40 daddr:40 dur -c ,"
+    },
+    {
+      "station": 1,
+      "session": "ICMPFlood1.csv",
+      "supported": true,
+      "rows": 18279,
+      "argus_sha256": "c094dc342c3715c33de69ef7483756a88e56bea48d291f7cc14e420de613babb",
+      "labelled_csv_sha256": "7660b7b87e9ff95af4218b779c88036612ee025759cb13f200bd89f8bc1fa9e6",
+      "epoch_csv_sha256": "810e9311e9a28d399488be4f0a26acb4cc20c5fef877a9466c4442fcfcb3714a",
+      "begin": 1661514820.718168,
+      "end": 1661516604.390785,
+      "alignment": "Exact Seq, SrcAddr and DstAddr; duration within 20 microseconds",
+      "command": "ra -X -n -u -p 6 -r FILE -s seq stime ltime saddr:40 daddr:40 dur -c ,"
+    },
+    {
+      "station": 1,
+      "session": "Slowloris1.csv",
+      "supported": true,
+      "rows": 31015,
+      "argus_sha256": "c0c03efef6a19c32f17b218f2bba3bfd57fa7f02a6f44c53724f64b34c0499b5",
+      "labelled_csv_sha256": "f04729e388275d77b4aa2e916733d02e4a5d946cf60cd6fd19bddc6c6e5215f5",
+      "epoch_csv_sha256": "ff5b7dca98440a32e4e39b25e4dd2652fff09e0f112a044cd4b27cde58869fd3",
+      "begin": 1661771961.927289,
+      "end": 1661773706.928288,
+      "alignment": "Exact Seq, SrcAddr and DstAddr; duration within 20 microseconds",
+      "command": "ra -X -n -u -p 6 -r FILE -s seq stime ltime saddr:40 daddr:40 dur -c ,"
+    },
+    {
+      "station": 1,
+      "session": "SSH1.csv",
+      "supported": true,
+      "rows": 1608,
+      "argus_sha256": "c0d7e5f3a689158aed7687e564b80230ac2f4a252213b7e3a80e09244a3d86e1",
+      "labelled_csv_sha256": "3531a7aed3a263a1a8ff34ecdfe2218ead6db2ad4d56c36a53fb82f4976dd2d6",
+      "epoch_csv_sha256": "9b2ced3a4f7f137ddf1bff4c45993e17a477421911ff167a7c579ad21528ba2a",
+      "begin": 1662550766.924339,
+      "end": 1662554113.08039,
+      "alignment": "Exact Seq, SrcAddr and DstAddr; duration within 20 microseconds",
+      "command": "ra -X -n -u -p 6 -r FILE -s seq stime ltime saddr:40 daddr:40 dur -c ,"
+    },
+    {
+      "station": 1,
+      "session": "SYNFlood1.csv",
+      "supported": true,
+      "rows": 44636,
+      "argus_sha256": "33a298d45007a1cad06c122524af1da6193ef82397ca6147f5bd6a7eca8f3622",
+      "labelled_csv_sha256": "8f841f07491cbf5363a73753e7c942e07e0129686276a6fbb1a103a07b9739b5",
+      "epoch_csv_sha256": "519261108cf5761a5344cd3b87d0d94e0954f8929b2a990ca0f186ec8ea3c3dc",
+      "begin": 1661776592.530286,
+      "end": 1661778497.647609,
+      "alignment": "Exact Seq, SrcAddr and DstAddr; duration within 20 microseconds",
+      "command": "ra -X -n -u -p 6 -r FILE -s seq stime ltime saddr:40 daddr:40 dur -c ,"
+    },
+    {
+      "station": 1,
+      "session": "SYNScan1.csv",
+      "supported": true,
+      "rows": 11450,
+      "argus_sha256": "1f0c641ad8b0b171781e7f914c55b9b490df21516f9c4e04a5b151192d861161",
+      "labelled_csv_sha256": "cdb6b51eaad6284ef950d3e7721dde9f21b0228f9cf9210a45ed73eb978e7b32",
+      "epoch_csv_sha256": "c27f56c09938019e8d6aec06876f056275e4cbe264abe54ef55632fa831c34ef",
+      "begin": 1661506202.607729,
+      "end": 1661506724.856101,
+      "alignment": "Exact Seq, SrcAddr and DstAddr; duration within 20 microseconds",
+      "command": "ra -X -n -u -p 6 -r FILE -s seq stime ltime saddr:40 daddr:40 dur -c ,"
+    },
+    {
+      "station": 1,
+      "session": "TCPConnect1.csv",
+      "supported": true,
+      "rows": 11645,
+      "argus_sha256": "ed77dd9ce8854aa983b7c2515b25401bc63b965e8921a04c0839efd1d5a537b0",
+      "labelled_csv_sha256": "d703ee3ee5c707c786b65dd11259de25ff962b89fefff3745b08f0bdf4e4e36a",
+      "epoch_csv_sha256": "7a137120d23ef283eff4f4967d55db37d86eb9f8826a4b38b5e631bebfdb89d2",
+      "begin": 1661507652.616426,
+      "end": 1661508238.353763,
+      "alignment": "Exact Seq, SrcAddr and DstAddr; duration within 20 microseconds",
+      "command": "ra -X -n -u -p 6 -r FILE -s seq stime ltime saddr:40 daddr:40 dur -c ,"
+    },
+    {
+      "station": 1,
+      "session": "Torshammer1.csv",
+      "supported": true,
+      "rows": 38120,
+      "argus_sha256": "672b559e29df7c5bdf7cf9ce6212a8e4335edd9c6cd01c79b0171fa200097072",
+      "labelled_csv_sha256": "18082b7ae8d4b653f2aa4e06eaf9c95cf48b5734749901cd0c83decae3b3377f",
+      "epoch_csv_sha256": "d89aa43a02056063facb412169340eb07e13ab6247d8a975f92c2ace98cf684f",
+      "begin": 1661774000.716266,
+      "end": 1661775752.737391,
+      "alignment": "Exact Seq, SrcAddr and DstAddr; duration within 20 microseconds",
+      "command": "ra -X -n -u -p 6 -r FILE -s seq stime ltime saddr:40 daddr:40 dur -c ,"
+    },
+    {
+      "station": 1,
+      "session": "UDPFlood1.csv",
+      "supported": true,
+      "rows": 467717,
+      "argus_sha256": "7576f02bac5724f89b3aa2e026d333057c2f8a481f66c14897f22ab43c2de763",
+      "labelled_csv_sha256": "ae13e398acc735e081ab1d1e5953cd806392c6d6305b4d93263f2d02a35bf68d",
+      "epoch_csv_sha256": "2155d7f58874bee86a7d7de53a327912db95b8151aba92bedf877db2f8e4db06",
+      "begin": 1661518178.787086,
+      "end": 1661519905.437814,
+      "alignment": "Exact Seq, SrcAddr and DstAddr; duration within 20 microseconds",
+      "command": "ra -X -n -u -p 6 -r FILE -s seq stime ltime saddr:40 daddr:40 dur -c ,"
+    },
+    {
+      "station": 1,
+      "session": "UDPScan1.csv",
+      "supported": true,
+      "rows": 10043,
+      "argus_sha256": "30d1e25a9769351d6c3e2281a90a1bcc707b92eb5b3d86c6da38d5c65ba1fb91",
+      "labelled_csv_sha256": "8bc5d91d995013c1ef305fa2e761ca16c7b2520e12edd331c9d26700f8ab803b",
+      "epoch_csv_sha256": "1766b9ef12af621fde1b31cd9feb6220641a8596bbb010f36e21f911d3c04e96",
+      "begin": 1661513311.086259,
+      "end": 1661513894.894128,
+      "alignment": "Exact Seq, SrcAddr and DstAddr; duration within 20 microseconds",
+      "command": "ra -X -n -u -p 6 -r FILE -s seq stime ltime saddr:40 daddr:40 dur -c ,"
+    },
+    {
+      "station": 2,
+      "session": "Goldeneye2.csv",
+      "supported": false,
+      "reason": "original Argus file unavailable; abbreviated CSV clock rejected"
+    },
+    {
+      "station": 2,
+      "session": "ICMPFlood2.csv",
+      "supported": false,
+      "reason": "original Argus file unavailable; abbreviated CSV clock rejected"
+    },
+    {
+      "station": 2,
+      "session": "Slowloris2.csv",
+      "supported": false,
+      "reason": "original Argus file unavailable; abbreviated CSV clock rejected"
+    },
+    {
+      "station": 2,
+      "session": "SSH2.csv",
+      "supported": false,
+      "reason": "original Argus file unavailable; abbreviated CSV clock rejected"
+    },
+    {
+      "station": 2,
+      "session": "SYNFlood2.csv",
+      "supported": false,
+      "reason": "original Argus file unavailable; abbreviated CSV clock rejected"
+    },
+    {
+      "station": 2,
+      "session": "SYNScan2.csv",
+      "supported": false,
+      "reason": "original Argus file unavailable; abbreviated CSV clock rejected"
+    },
+    {
+      "station": 2,
+      "session": "TCPConnect2.csv",
+      "supported": false,
+      "reason": "original Argus file unavailable; abbreviated CSV clock rejected"
+    },
+    {
+      "station": 2,
+      "session": "Torshammer2.csv",
+      "supported": false,
+      "reason": "original Argus file unavailable; abbreviated CSV clock rejected"
+    },
+    {
+      "station": 2,
+      "session": "UDPFlood2.csv",
+      "supported": false,
+      "reason": "original Argus file unavailable; abbreviated CSV clock rejected"
+    },
+    {
+      "station": 2,
+      "session": "UDPScan2.csv",
+      "supported": false,
+      "reason": "original Argus file unavailable; abbreviated CSV clock rejected"
+    }
+  ]
+}

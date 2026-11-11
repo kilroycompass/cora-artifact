@@ -1,0 +1,1454 @@
+[
+  {
+    "source": "c17_thu",
+    "scenario": "c17_thu",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "global_L1",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__c17_thu__global_L1__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "c17_thu",
+    "scenario": "c17_thu",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "host_L1",
+    "fit_reused": true,
+    "score_path": "experiments/results/tifs/scores/window__c17_thu__global_L1__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "c17_thu",
+    "scenario": "c17_thu",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "global_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__c17_thu__global_L16__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "c17_thu",
+    "scenario": "c17_thu",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "host_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__c17_thu__host_L16__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "c17_thu",
+    "scenario": "c17_thu",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "global_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__c17_thu__global_L64__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "c17_thu",
+    "scenario": "c17_thu",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "host_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__c17_thu__host_L64__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "c17_fri",
+    "scenario": "c17_fri",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "global_L1",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__c17_fri__global_L1__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "c17_fri",
+    "scenario": "c17_fri",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "host_L1",
+    "fit_reused": true,
+    "score_path": "experiments/results/tifs/scores/window__c17_fri__global_L1__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "c17_fri",
+    "scenario": "c17_fri",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "global_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__c17_fri__global_L16__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "c17_fri",
+    "scenario": "c17_fri",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "host_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__c17_fri__host_L16__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "c17_fri",
+    "scenario": "c17_fri",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "global_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__c17_fri__global_L64__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "c17_fri",
+    "scenario": "c17_fri",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "host_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__c17_fri__host_L64__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "unsw",
+    "scenario": "unsw",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "global_L1",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__unsw__global_L1__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "unsw",
+    "scenario": "unsw",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "host_L1",
+    "fit_reused": true,
+    "score_path": "experiments/results/tifs/scores/window__unsw__global_L1__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "unsw",
+    "scenario": "unsw",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "global_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__unsw__global_L16__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "unsw",
+    "scenario": "unsw",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "host_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__unsw__host_L16__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "unsw",
+    "scenario": "unsw",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "global_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__unsw__global_L64__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "unsw",
+    "scenario": "unsw",
+    "split": "test",
+    "regime": "window_control",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "representation_control",
+    "representation": "host_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__unsw__host_L64__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L1",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L1__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L1",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L1__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "global_L1",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L1__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "global_L1",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L1__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L1",
+    "fit_reused": true,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L1__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L1",
+    "fit_reused": true,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L1__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "host_L1",
+    "fit_reused": true,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L1__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "host_L1",
+    "fit_reused": true,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L1__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L16__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L16__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "global_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L16__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "global_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L16__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__host_L16__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__host_L16__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "host_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__host_L16__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "host_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__host_L16__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L64__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L64__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "global_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L64__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "global_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__global_L64__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__host_L64__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__host_L64__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "host_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__host_L64__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "bot",
+    "scenario": "bot",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "host_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__bot__host_L64__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L1",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L1__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L1",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L1__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "global_L1",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L1__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "global_L1",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L1__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L1",
+    "fit_reused": true,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L1__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L1",
+    "fit_reused": true,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L1__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "host_L1",
+    "fit_reused": true,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L1__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "host_L1",
+    "fit_reused": true,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L1__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L16__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L16__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "global_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L16__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "global_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L16__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__host_L16__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__host_L16__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "host_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__host_L16__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "host_L16",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__host_L16__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L64__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "global_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L64__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "global_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L64__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "global_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__global_L64__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "hgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__host_L64__hgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 700,
+    "experiment": "independent_validation",
+    "representation": "host_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__host_L64__xgb__700.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 701,
+    "experiment": "independent_validation",
+    "representation": "host_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__host_L64__xgb__701.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  },
+  {
+    "source": "5g_bs1",
+    "scenario": "5g_bs1",
+    "split": "test",
+    "regime": "independent",
+    "model": "xgb",
+    "fit_seed": 702,
+    "experiment": "independent_validation",
+    "representation": "host_L64",
+    "fit_reused": false,
+    "score_path": "experiments/results/tifs/scores/window__5g_bs1__host_L64__xgb__702.npz",
+    "time_divisor": 1.0,
+    "settings": [
+      {
+        "q": 0.1,
+        "delay": 0,
+        "delay_seconds": 300,
+        "r": 300,
+        "feedback": "issued"
+      }
+    ]
+  }
+]

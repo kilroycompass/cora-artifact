@@ -1,0 +1,56 @@
+{
+  "source": "cic17_fri",
+  "model": "logistic",
+  "seed": 504,
+  "train_windows": 3593,
+  "available_training_windows": 3593,
+  "selection_windows": 462,
+  "configuration": {
+    "C": 100.0
+  },
+  "trace": [
+    {
+      "configuration": {
+        "C": 0.01
+      },
+      "selection_ap": 0.9497762906763728,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 0.1
+      },
+      "selection_ap": 0.9560546398908321,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 1.0
+      },
+      "selection_ap": 0.9596439155891571,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 10.0
+      },
+      "selection_ap": 0.9620739232550527,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 100.0
+      },
+      "selection_ap": 0.9646445104549635,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Botnet",
+    "Portscan"
+  ],
+  "source_calibration_auc": 0.9451804670912951,
+  "source_raw_auc": 0.9451804670912951,
+  "training_seconds": 0.40086690010502934
+}

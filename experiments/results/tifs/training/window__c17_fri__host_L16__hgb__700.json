@@ -1,0 +1,49 @@
+{
+  "fit_id": "window__c17_fri__host_L16__hgb__700",
+  "model": "hgb",
+  "fit_seed": 700,
+  "supported": true,
+  "train_windows": 14368,
+  "available_training_windows": 14368,
+  "selection_windows": 1847,
+  "calibration_windows": 4311,
+  "source_benign_reference": 2764,
+  "orientation": 1,
+  "configuration": {
+    "max_leaf_nodes": 15,
+    "learning_rate": 0.05
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_leaf_nodes": 15,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.9994325859181618,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_leaf_nodes": 63,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.9992045190001783,
+      "orientation": 1
+    }
+  ],
+  "source_auc": 0.9996351652093544,
+  "targets": {
+    "test": {
+      "n": 13680,
+      "benign": 4921,
+      "attacks": 8759,
+      "auc": 0.8827486618750943,
+      "ap": 0.9146264387249594
+    }
+  },
+  "seconds": 3.3305240999907255,
+  "protocol_sha256": "46e953cd2307a49e4572772014b067ff2601a8e84b9c590cb9a8a661e4e013b6",
+  "experiment": "representation_control",
+  "source": "c17_fri",
+  "representation": "host_L16"
+}

@@ -1,0 +1,59 @@
+{
+  "source": "cic17_thu",
+  "model": "logistic",
+  "seed": 500,
+  "train_windows": 2375,
+  "available_training_windows": 2375,
+  "selection_windows": 305,
+  "configuration": {
+    "C": 10.0
+  },
+  "trace": [
+    {
+      "configuration": {
+        "C": 0.01
+      },
+      "selection_ap": 0.7513647094773092,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 0.1
+      },
+      "selection_ap": 0.8272084193750282,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 1.0
+      },
+      "selection_ap": 0.863934366823608,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 10.0
+      },
+      "selection_ap": 0.8737059466288489,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 100.0
+      },
+      "selection_ap": 0.8736467298061487,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Infiltration",
+    "Infiltration - Portscan",
+    "Web Attack - Brute Force",
+    "Web Attack - SQL Injection",
+    "Web Attack - XSS"
+  ],
+  "source_calibration_auc": 0.9026204819277107,
+  "source_raw_auc": 0.9026204819277107,
+  "training_seconds": 0.27000269992277026
+}

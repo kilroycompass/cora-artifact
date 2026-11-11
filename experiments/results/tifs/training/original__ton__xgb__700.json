@@ -1,0 +1,71 @@
+{
+  "fit_id": "original__ton__xgb__700",
+  "model": "xgb",
+  "fit_seed": 700,
+  "supported": true,
+  "train_windows": 32768,
+  "available_training_windows": 159015,
+  "selection_windows": 2048,
+  "calibration_windows": 97332,
+  "source_benign_reference": 47387,
+  "orientation": 1,
+  "configuration": {
+    "max_depth": 6,
+    "learning_rate": 0.05
+  },
+  "trace": [
+    {
+      "configuration": {
+        "max_depth": 3,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.7157527562843955,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_depth": 3,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.7299052417057796,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_depth": 6,
+        "learning_rate": 0.05
+      },
+      "selection_ap": 0.8151418369932433,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "max_depth": 6,
+        "learning_rate": 0.1
+      },
+      "selection_ap": 0.787999346062573,
+      "orientation": 1
+    }
+  ],
+  "source_auc": 0.8288331026580966,
+  "targets": {
+    "test": {
+      "n": 171242,
+      "benign": 66086,
+      "attacks": 105156,
+      "auc": 0.817962379548278,
+      "ap": 0.8313074033571481
+    },
+    "transfer": {
+      "n": 15358,
+      "benign": 13998,
+      "attacks": 1360,
+      "auc": 0.40636776892497245,
+      "ap": 0.07246847309032522
+    }
+  },
+  "seconds": 6.3466664999723434,
+  "protocol_sha256": "46e953cd2307a49e4572772014b067ff2601a8e84b9c590cb9a8a661e4e013b6",
+  "experiment": "stronger_scorer",
+  "source": "ton"
+}

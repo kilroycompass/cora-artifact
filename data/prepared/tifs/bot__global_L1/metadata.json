@@ -1,0 +1,14 @@
+{
+  "case": "bot",
+  "representation": "global_L1",
+  "supported": true,
+  "window_length": 1,
+  "grouping": "global",
+  "source_train": 7112102,
+  "source_validation": 3048044,
+  "target_windows": 6773662,
+  "target_benign": 1910,
+  "target_attacks": 6771752,
+  "discarded_target_tails": 0,
+  "flow_metadata_sha256": "d580e1199b62319e99edf9df6c6d38dc49b8548b219f89cd7a38fd79c8929e10"
+}

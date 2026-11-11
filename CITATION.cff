@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use CORA or its artifact, please cite this work."
+title: "CORA: Acquisition-Aware Calibration Audits for Network Intrusion Detection"
+type: software
+version: 1.0.0
+date-released: 2026-11-11
+repository-code: "https://github.com/kilroycompass/cora-tifs-artifact"
+url: "https://github.com/kilroycompass/cora-tifs-artifact"
+authors:
+  - family-names: Akpaku
+    given-names: Ernest
+    affiliation: "Southern University of Science and Technology (SUSTech)"
+  - family-names: Ofoeda
+    given-names: Joshua
+    affiliation: "University of Professional Studies, Accra (UPSA)"
+  - family-names: Agbenyegah
+    given-names: Francis Kwadzo
+    affiliation: "Ghana Communication Technology University (GCTU)"
+preferred-citation:
+  type: article
+  title: "CORA: Acquisition-Aware Calibration Audits for Network Intrusion Detection"
+  year: 2026
+  authors:
+    - family-names: Akpaku
+      given-names: Ernest
+    - family-names: Ofoeda
+      given-names: Joshua
+    - family-names: Agbenyegah
+      given-names: Francis Kwadzo

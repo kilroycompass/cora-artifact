@@ -1,0 +1,20 @@
+{
+  "access_date": "2026-11-11",
+  "active_references": 38,
+  "verification": "Publisher proceedings, publisher pages, official author papers and primary arXiv preprints; preprint status explicit.",
+  "tifs_additions": [
+    "chen2016xgboost",
+    "nakip2024ssid",
+    "olimpio2023delayed",
+    "barrett2026firce",
+    "siriwardhana2025nidd",
+    "uqbot2025"
+  ],
+  "venue_guidelines": "https://signalprocessingsociety.org/publications-resources/information-authors",
+  "guidelines_checked": {
+    "initial_regular_max_pages_including_references": 13,
+    "supplement_recommended_max_pages": 6,
+    "point_size": 10,
+    "minimum_margin_inches": 1
+  }
+}

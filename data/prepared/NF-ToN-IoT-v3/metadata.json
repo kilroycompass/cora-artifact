@@ -1,0 +1,28 @@
+{
+  "source": "data\\real\\netflow-v3\\NF-ToN-IoT-v3\\NF-ToN-IoT-v3.csv",
+  "invalid_rows": 0,
+  "subsampling": false,
+  "splits": {
+    "train": {
+      "flows": 10181161,
+      "windows": 159015,
+      "positive": 65930,
+      "begin": 1556028590618,
+      "end": 1556150399097
+    },
+    "validation": {
+      "flows": 6373048,
+      "windows": 99380,
+      "positive": 50996,
+      "begin": 1556150400103,
+      "end": 1556236799780
+    },
+    "test": {
+      "flows": 10966051,
+      "windows": 171242,
+      "positive": 105156,
+      "begin": 1556236800016,
+      "end": 1556549109804
+    }
+  }
+}

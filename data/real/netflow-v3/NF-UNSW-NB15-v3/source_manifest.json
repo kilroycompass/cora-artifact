@@ -1,0 +1,74 @@
+{
+  "dataset": "NF-UNSW-NB15-v3",
+  "publisher_page": "https://staff.itee.uq.edu.au/marius/NIDS_datasets/",
+  "delivery_page": "https://rdm.uq.edu.au/files/abd2f5d8-e268-4ff0-84fb-f2f7b3ca3e8f",
+  "retrieved_utc": "2026-11-09T08:28:41Z",
+  "archive_bytes": 110825147,
+  "archive_etag": "a31aba4ac86f9fe4b2a557eaed86090a-22",
+  "archive_sha256": "6d51554df43e324ba8d68fc31a02a83d860ba0a3a93d63320a4a6fc314c9cdfd",
+  "license": {
+    "id": 2,
+    "externalId": 454104,
+    "title": "Permitted Re-Use with Commercial Use Restriction",
+    "description": "http://guides.library.uq.edu.au/deposit_your_data/terms_and_conditions",
+    "policy": "",
+    "isActive": true,
+    "createdAt": "2020-02-09T07:56:30.000Z",
+    "updatedAt": "2026-11-09T04:54:59.611Z"
+  },
+  "publisher_details": {
+    "id": 517,
+    "uuid": "abd2f5d8-e268-4ff0-84fb-f2f7b3ca3e8f",
+    "name": "NF-UNSW-NB15-v3",
+    "description": "This dataset is an enhanced version of NetFlow-based datasets, incorporating 53 extracted features that provide detailed insights into network flows. The dataset includes binary and multi-class labels, distinguishing between normal traffic and nine different types of attacks. It is structured in CSV format, with each row representing a single network flow, labeled accordingly. One of the key aspects of this dataset is the inclusion of temporal features, which allow for a more detailed analysis of traffic over time. The dataset records precise timestamps for each flow, including start and end times, enabling a more structured understanding of flow duration and activity patterns. Additionally, it captures inter-packet arrival time (IPAT) statistics, including minimum, maximum, average, and standard deviation values for both source-to-destination and destination-to-source packet transmissions. ",
+    "espacePid": "UQ:6e0eda1",
+    "packagingStatus": 0,
+    "status": "PUBLISHED",
+    "accessType": "OPEN",
+    "dataTypes": "",
+    "allowAccessRequests": true,
+    "user": {
+      "displayName": "Mr Majed Luay"
+    },
+    "datasetLicense": {
+      "id": 2,
+      "externalId": 454104,
+      "title": "Permitted Re-Use with Commercial Use Restriction",
+      "description": "http://guides.library.uq.edu.au/deposit_your_data/terms_and_conditions",
+      "policy": "",
+      "isActive": true,
+      "createdAt": "2020-02-09T07:56:30.000Z",
+      "updatedAt": "2026-11-09T04:54:59.611Z"
+    },
+    "datasetUsers": [
+      {
+        "userId": 31894
+      }
+    ],
+    "datasetAccessRequests": []
+  },
+  "extracted_files": [
+    "FurtherInformation.txt",
+    "bag-info.txt",
+    "bagit.txt",
+    "manifest-sha1.txt",
+    "tagmanifest-sha1.txt",
+    "NF-UNSW-NB15-v3.csv",
+    "NetFlow_v3_Features.csv"
+  ],
+  "publisher_payload_verification": [
+    {
+      "file": "NF-UNSW-NB15-v3.csv",
+      "algorithm": "sha1",
+      "expected": "2cba4879ead17c51e3268a01c06af41186cd90e4",
+      "actual": "2cba4879ead17c51e3268a01c06af41186cd90e4"
+    },
+    {
+      "file": "NetFlow_v3_Features.csv",
+      "algorithm": "sha1",
+      "expected": "d028597391217f78df3db31c1dbd96805203196f",
+      "actual": "d028597391217f78df3db31c1dbd96805203196f"
+    }
+  ],
+  "benchmark_status": "acquired and checksum verified; no fitted experiment implied"
+}

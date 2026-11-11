@@ -1,0 +1,55 @@
+{
+  "source": "cic18_hulk",
+  "model": "logistic",
+  "seed": 501,
+  "train_windows": 48498,
+  "available_training_windows": 48498,
+  "selection_windows": 2048,
+  "configuration": {
+    "C": 10.0
+  },
+  "trace": [
+    {
+      "configuration": {
+        "C": 0.01
+      },
+      "selection_ap": 0.9999451838187767,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 0.1
+      },
+      "selection_ap": 0.9999804501037773,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 1.0
+      },
+      "selection_ap": 0.9999934362313466,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 10.0
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 100.0
+      },
+      "selection_ap": 1.0,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "DoS Hulk"
+  ],
+  "source_calibration_auc": 0.9999962051829206,
+  "source_raw_auc": 0.9999962051829206,
+  "training_seconds": 2.5246000001206994
+}

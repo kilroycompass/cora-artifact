@@ -1,0 +1,35 @@
+{
+  "target": "IEEE TIFS working journal manuscript",
+  "models": [
+    "logistic",
+    "HGB",
+    "CNN",
+    "XGBoost"
+  ],
+  "original": {
+    "fitting_executions": 120,
+    "distinct_prediction_sets": 56,
+    "scorer_target_replays": 180,
+    "physical_target_streams": 6,
+    "configurations_per_replay": 54,
+    "method_configuration_pairs": 87480,
+    "unsupported_pairs": 60
+  },
+  "replicated_audit": {
+    "additional_fits": 79,
+    "query_seeds": 20,
+    "score_target_cases": 186,
+    "query_replays": 6120,
+    "method_configuration_pairs": 55080,
+    "unsupported_pairs": 20,
+    "independent_capture_lineages": [
+      "NF-BoT-IoT-v3",
+      "5G-NIDD BS1"
+    ],
+    "excluded_inputs": [
+      "5G-NIDD BS2 (no usable verified original epoch archive)",
+      "HIKARI feature CSV (no timestamps)"
+    ]
+  },
+  "retired": "Previous conference prose in UNWANTED_FILES/pre_tifs_manuscript; earlier unrelated workspace material remains quarantined."
+}

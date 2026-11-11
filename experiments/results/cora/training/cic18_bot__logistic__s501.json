@@ -1,0 +1,55 @@
+{
+  "source": "cic18_bot",
+  "model": "logistic",
+  "seed": 501,
+  "train_windows": 41418,
+  "available_training_windows": 41418,
+  "selection_windows": 2048,
+  "configuration": {
+    "C": 100.0
+  },
+  "trace": [
+    {
+      "configuration": {
+        "C": 0.01
+      },
+      "selection_ap": 0.7514329071907166,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 0.1
+      },
+      "selection_ap": 0.8023757489458003,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 1.0
+      },
+      "selection_ap": 0.8258873411562364,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 10.0
+      },
+      "selection_ap": 0.8282152245859591,
+      "orientation": 1
+    },
+    {
+      "configuration": {
+        "C": 100.0
+      },
+      "selection_ap": 0.8283397255111057,
+      "orientation": 1
+    }
+  ],
+  "orientation": 1,
+  "source_families": [
+    "Botnet Ares"
+  ],
+  "source_calibration_auc": 0.7864038662755897,
+  "source_raw_auc": 0.7864038662755897,
+  "training_seconds": 7.334320700028911
+}

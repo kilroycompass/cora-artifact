@@ -1,0 +1,30 @@
+{
+  "doi": "10.23729/e80ac9df-d9fb-47e7-8d0d-01384a415361",
+  "publisher": "https://etsin.fairdata.fi/dataset/9d13ef28-2ca7-44b0-9950-225359afac65",
+  "license": "CC BY 4.0",
+  "files": [
+    {
+      "file": "BS1_each_attack_csv.zip",
+      "supported": true,
+      "sha256": "b0e28ce972465aa1463113de6225b883a383b9f3bc34d8a21283070f192883e9",
+      "bytes": 24613162
+    },
+    {
+      "file": "BS1_each_attack_argus.zip",
+      "supported": true,
+      "sha256": "bfbbb2b2460877de50e932bbc3204d11fce9564299c210d44866b882e099910c",
+      "bytes": 14048576
+    },
+    {
+      "file": "BS2_each_attack_csv.zip",
+      "supported": true,
+      "sha256": "7ca4f39180cbd598730241c570eca898be41ce67aacafc024bb098714595fdc6",
+      "bytes": 18096710
+    },
+    {
+      "file": "BS2_each_attack_argus.zip",
+      "supported": false,
+      "reason": "No available verified single-file package; abbreviated CSV clocks are not substituted"
+    }
+  ]
+}

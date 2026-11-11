@@ -1,0 +1,116 @@
+{
+  "source": "cic18",
+  "model": "cnn",
+  "seed": 501,
+  "train_windows": 32768,
+  "available_training_windows": 92161,
+  "selection_windows": 2048,
+  "configuration": {
+    "cap": 32768,
+    "lr": 0.001,
+    "max_epochs": 60,
+    "patience": 10,
+    "selected_epoch": 5
+  },
+  "trace": [
+    {
+      "epoch": 1,
+      "loss": 0.3031805108184926,
+      "selection_ap": 0.2475773050482135,
+      "orientation": -1
+    },
+    {
+      "epoch": 2,
+      "loss": 0.0987762985023437,
+      "selection_ap": 0.22534165889373398,
+      "orientation": -1
+    },
+    {
+      "epoch": 3,
+      "loss": 0.06450721928558778,
+      "selection_ap": 0.2330272974402064,
+      "orientation": -1
+    },
+    {
+      "epoch": 4,
+      "loss": 0.04390654372400604,
+      "selection_ap": 0.2243404723412466,
+      "orientation": -1
+    },
+    {
+      "epoch": 5,
+      "loss": 0.029730275371548487,
+      "selection_ap": 0.2591549471576876,
+      "orientation": -1
+    },
+    {
+      "epoch": 6,
+      "loss": 0.019875903972206288,
+      "selection_ap": 0.2493411721514474,
+      "orientation": -1
+    },
+    {
+      "epoch": 7,
+      "loss": 0.014780862830775732,
+      "selection_ap": 0.24186375451271788,
+      "orientation": -1
+    },
+    {
+      "epoch": 8,
+      "loss": 0.010477878175152,
+      "selection_ap": 0.2400751292472339,
+      "orientation": -1
+    },
+    {
+      "epoch": 9,
+      "loss": 0.00776812128151505,
+      "selection_ap": 0.20940896849918084,
+      "orientation": -1
+    },
+    {
+      "epoch": 10,
+      "loss": 0.005995001597511873,
+      "selection_ap": 0.19776639676590207,
+      "orientation": -1
+    },
+    {
+      "epoch": 11,
+      "loss": 0.004393676557583603,
+      "selection_ap": 0.21083773750569362,
+      "orientation": -1
+    },
+    {
+      "epoch": 12,
+      "loss": 0.0034580321984094553,
+      "selection_ap": 0.1752001988198013,
+      "orientation": -1
+    },
+    {
+      "epoch": 13,
+      "loss": 0.0028140087683823367,
+      "selection_ap": 0.20019216032468948,
+      "orientation": -1
+    },
+    {
+      "epoch": 14,
+      "loss": 0.0022115472169161876,
+      "selection_ap": 0.15754671837878736,
+      "orientation": -1
+    },
+    {
+      "epoch": 15,
+      "loss": 0.001506848768826785,
+      "selection_ap": 0.16673551456095015,
+      "orientation": -1
+    }
+  ],
+  "orientation": -1,
+  "source_families": [
+    "DoS GoldenEye",
+    "DoS Slowloris",
+    "SSH-BruteForce"
+  ],
+  "source_calibration_auc": 0.7988702996688122,
+  "source_raw_auc": 0.201129706651508,
+  "training_seconds": 32.5979476000648
+}
